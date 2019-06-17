@@ -15,6 +15,9 @@ DPSs 懲教院所
 
 ## TODO
 
+Other Data Sources to be Reviewed
+- [ ] https://data.gov.hk/en-datasets/search/election%20result
+
 2018 LCBE KW
 - [ ] include complaints breakdown
 - [ ] include Age and Sex distribution (not included in report, asking EAC for data source)
@@ -38,19 +41,19 @@ DPSs 懲教院所
 - [ ] extract data from https://www.eac.hk/ch/legco/2008lce_report1.htm
 
 2007 LCBE
-- [ ] https://www.eac.hk/ch/legco/2007lcbe_hki_detailreport.htm
+- [ ] extract data from https://www.eac.hk/ch/legco/2007lcbe_hki_detailreport.htm
 
 2004 LCE
-- [ ] https://www.eac.hk/ch/legco/2004_report1.htm
+- [ ] extract data from https://www.eac.hk/ch/legco/2004_report1.htm
 
 2001 LCBE
-- [ ] https://www.eac.hk/ch/legco/2001_report.htm
+- [ ] extract data from https://www.eac.hk/ch/legco/2001_report.htm
 
 2000 LCBE
-- [ ] https://www.eac.hk/ch/legco/2000_report_2.htm
+- [ ] extract data from https://www.eac.hk/ch/legco/2000_report_2.htm
 
 2000 LCE
-- [ ] https://www.eac.hk/ch/legco/2000_report.htm
+- [ ] extract data from https://www.eac.hk/ch/legco/2000_report.htm
 
 1998 LCE
-- [ ] https://www.info.gov.hk/chinfo/98eac-c.htm
+- [ ] extract data from https://www.info.gov.hk/chinfo/98eac-c.htm
