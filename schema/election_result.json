@@ -1,0 +1,345 @@
+{
+  "definitions": {
+    "electionStatistics": {
+      "type": "object",
+      "required": [
+        "availableVotes",
+        "submittedVotes",
+        "voidedVotes",
+        "accumulatedVotesByHour",
+        "candidateApplications",
+        "receivedComplaints"
+      ],
+      "properties": {
+        "availableVotes": {
+          "type": "number",
+          "title": "Available Votes",
+          "default": 0
+        },
+        "submittedVotes": {
+          "type": "number",
+          "title": "Submitted Votes",
+          "default": 0
+        },
+        "voidedVotes": {
+          "type": "number",
+          "title": "Voided Votes",
+          "default": 0
+        },
+        "candidateApplications": {
+          "type": "object",
+          "title": "Candidate Applications",
+          "required": [
+            "receivedApplications",
+            "approvedApplications"
+          ],
+          "properties": {
+            "receivedApplications": {
+              "type": "number",
+              "title": "Received Applications",
+              "default": 0
+            },
+            "approvedApplications": {
+              "type": "number",
+              "title": "Approved Applications",
+              "default": 0
+            }
+          }
+        },
+        "accumulatedVotesByHour": {
+          "type": "array",
+          "title": "AccumulatedVotesByHour Array",
+          "items": {
+            "type": "object",
+            "title": "AccumulatedVotesByHour",
+            "required": [
+              "countedAt",
+              "numberOfVotes"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "countedAt": {
+                "type": "string",
+                "title": "HH:MM",
+                "default": "00:00",
+                "examples": [],
+                "pattern": "^([0-2][0-9]:[0-5][0-9])$"
+              },
+              "numberOfVotes": {
+                "type": "number",
+                "title": "Number of Votes",
+                "default": 0
+              }
+            }
+          }
+        },
+        "candidates": {
+          "type": "array",
+          "title": "Candidate Array",
+          "items": {
+            "type": "object",
+            "title": "Candidate",
+            "required": [
+              "candidateNumber",
+              "nameZh",
+              "nameEn",
+              "receivedVotes",
+              "elected"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "candidateNumber": {
+                "type": "number",
+                "title": "Candidate Number",
+                "default": 0
+              },
+              "nameZh": {
+                "type": "string",
+                "title": "Name (Chinese)",
+                "default": "",
+                "examples": [
+                  "test"
+                ],
+                "pattern": "^(.*)$"
+              },
+              "nameEn": {
+                "type": "string",
+                "title": "Name (English)",
+                "default": "",
+                "examples": [
+                  "test"
+                ],
+                "pattern": "^(.*)$"
+              },
+              "receivedVotes": {
+                "type": "number",
+                "title": "Received Votes",
+                "default": 0
+              },
+              "elected": {
+                "type": "boolean",
+                "title": "Elected?",
+                "default": false
+              }
+            }
+          }
+        },
+        "receivedComplaints": {
+          "type": "object",
+          "title": "Received Complaints",
+          "required": [
+            "againstEac",
+            "againstRo",
+            "againstPolice",
+            "againstIcac",
+            "againstPros"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "againstEac": {
+              "type": "number",
+              "title": "Number of Complaints against EAC",
+              "default": 0
+            },
+            "againstRo": {
+              "type": "number",
+              "title": "Number of Complaints against RO",
+              "default": 0
+            },
+            "againstPolice": {
+              "type": "number",
+              "title": "Number of Complaints against Police",
+              "default": 0
+            },
+            "againstIcac": {
+              "type": "number",
+              "title": "Number of Complaints against ICAC",
+              "default": 0
+            },
+            "againstPros": {
+              "type": "number",
+              "title": "Number of Complaints against PROs",
+              "default": 0
+            }
+          }
+        }
+      }
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "/ElectionResult",
+  "type": "object",
+  "title": "Election Result Schema",
+  "required": [
+    "nameZh",
+    "nameEn",
+    "code",
+    "dataSource",
+    "electionPeriod",
+    "candidateApplicationPeriod",
+    "complaintsHandlingPeriod",
+    "overallStatistics",
+    "geographicalConstituencies",
+    "functionalConstituencies"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "nameZh": {
+      "type": "string",
+      "title": "Name (Chinese)",
+      "default": "",
+      "examples": [
+        "test"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "nameEn": {
+      "type": "string",
+      "title": "Name (English)",
+      "default": "",
+      "examples": [
+        "test"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "code": {
+      "type": "string",
+      "title": "Unique Code",
+      "default": "",
+      "examples": [
+        "test"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "dataSource": {
+      "type": "string",
+      "title": "URL of the data source",
+      "default": "",
+      "examples": [
+        "test"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "electionPeriod": {
+      "type": "object",
+      "title": "Election Period",
+      "required": [
+        "startedAt",
+        "closedAt",
+        "dpssStartedAt",
+        "dpssClosedAt"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "startedAt": {
+          "type": "string",
+          "title": "Election Start Time",
+          "pattern": "^([0-9]{4}/[0-9]{2}/[0-9]{2} [0-2][0-9]:[0-5][0-9])$"
+        },
+        "closedAt": {
+          "type": "string",
+          "title": "Election Start Time",
+          "pattern": "^([0-9]{4}/[0-9]{2}/[0-9]{2} [0-2][0-9]:[0-5][0-9])$"
+        },
+        "dpssStartedAt": {
+          "type": "string",
+          "title": "Election Start Time",
+          "pattern": "^([0-9]{4}/[0-9]{2}/[0-9]{2} [0-2][0-9]:[0-5][0-9])$"
+        },
+        "dpssClosedAt": {
+          "type": "string",
+          "title": "Election Start Time",
+          "pattern": "^([0-9]{4}/[0-9]{2}/[0-9]{2} [0-2][0-9]:[0-5][0-9])$"
+        }
+      },
+      "default": "",
+      "examples": []
+    },
+    "candidateApplicationPeriod": {
+      "type": "object",
+      "title": "Candidate Application Period",
+      "required": [
+        "startedAt",
+        "endedAt"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "startedAt": {
+          "type": "string",
+          "title": "Candidate Application Period Start Time",
+          "pattern": "^([0-9]{4}/[0-9]{2}/[0-9]{2} [0-2][0-9]:[0-5][0-9])$"
+        },
+        "endedAt": {
+          "type": "string",
+          "title": "Candidate Application Period End Time",
+          "pattern": "^([0-9]{4}/[0-9]{2}/[0-9]{2} [0-2][0-9]:[0-5][0-9])$"
+        }
+      }
+    },
+    "complaintsHandlingPeriod": {
+      "type": "object",
+      "title": "Received Complaints",
+      "required": [
+        "startedAt",
+        "endedAt"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "startedAt": {
+          "type": "string",
+          "title": "Complaint Handling Period Start Time",
+          "pattern": "^([0-9]{4}/[0-9]{2}/[0-9]{2} [0-2][0-9]:[0-5][0-9])$"
+        },
+        "endedAt": {
+          "type": "string",
+          "title": "Complaint Handling Period End Time",
+          "pattern": "^([0-9]{4}/[0-9]{2}/[0-9]{2} [0-2][0-9]:[0-5][0-9])$"
+        }
+      }
+    },
+    "overallStatistics": {
+      "title": "Overall Statistics",
+      "$ref": "#/definitions/electionStatistics"
+    },
+    "geographicalConstituencies": {
+      "type": "array",
+      "title": "Geographical Constituency Array",
+      "items": {
+        "type": "object",
+        "title": "Geographical Constituency",
+        "properties": {
+          "constituencyNameZh": {
+            "type": "string"
+          },
+          "constituencyNameEn": {
+            "type": "string"
+          },
+          "constituencyStatistics": {
+            "title": "Constituency Statistics",
+            "$ref": "#/definitions/electionStatistics"
+          }
+        }
+      }
+    },
+    "functionalConstituencies": {
+      "type": "array",
+      "title": "Functional Constituency Array",
+      "items": {
+        "type": "object",
+        "title": "Functional Constituency",
+        "properties": {
+          "constituencyNameZh": {
+            "type": "string"
+          },
+          "constituencyNameEn": {
+            "type": "string"
+          },
+          "constituencyStatistics": {
+            "title": "Constituency Statistics",
+            "$ref": "#/definitions/electionStatistics"
+          }
+        }
+      }
+    }
+  }
+}

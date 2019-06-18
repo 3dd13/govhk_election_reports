@@ -1,0 +1,100 @@
+{
+  "nameZh": "2018年立法會補選",
+  "nameEn": "2018 Legislative Council By-election",
+  "code": "2018lcbe",
+  "dataSource": "https://www.eac.hk/ch/legco/2018lcbe_detailreport.htm",
+  "electionPeriod": {
+    "startedAt": "2018/03/11 07:30",
+    "closedAt": "2018/03/11 22:30",
+    "dpssStartedAt": "2018/03/11 09:00",
+    "dpssClosedAt": "2018/03/11 16:00"
+  },
+  "candidateApplicationPeriod": {
+    "startedAt": "2018/01/16 00:00",
+    "endedAt": "2018/01/29 23:59"
+  },
+  "complaintsHandlingPeriod": {
+    "startedAt": "2018/01/16 00:00",
+    "endedAt": "2019/04/25 23:59"
+  },
+  "overallStatistics": {
+    "availableVotes": 487160,
+    "submittedVotes": 216522,
+    "voidedVotes": 1550,
+    "candidateApplications": {
+      "receivedApplications": 18,
+      "approvedApplications": 13
+    },
+    "receivedComplaints": {
+      "againstEac": 578,
+      "againstRo": 670,
+      "againstPolice": 365,
+      "againstIcac": 22,
+      "againstPros": 143
+    },
+    "accumulatedVotesByHour": [
+      {
+        "countedAt": "08:30",
+        "numberOfVotes": 18214
+      },
+      {
+        "countedAt": "09:30",
+        "numberOfVotes": 58959
+      },
+      {
+        "countedAt": "10:30",
+        "numberOfVotes": 119794
+      },
+      {
+        "countedAt": "11:30",
+        "numberOfVotes": 189758
+      },
+      {
+        "countedAt": "12:30",
+        "numberOfVotes": 261353
+      },
+      {
+        "countedAt": "13:30",
+        "numberOfVotes": 326021
+      },
+      {
+        "countedAt": "14:30",
+        "numberOfVotes": 391535
+      },
+      {
+        "countedAt": "15:30",
+        "numberOfVotes": 457730
+      },
+      {
+        "countedAt": "16:30",
+        "numberOfVotes": 523699
+      },
+      {
+        "countedAt": "17:30",
+        "numberOfVotes": 586789
+      },
+      {
+        "countedAt": "18:30",
+        "numberOfVotes": 649580
+      },
+      {
+        "countedAt": "19:30",
+        "numberOfVotes": 714384
+      },
+      {
+        "countedAt": "20:30",
+        "numberOfVotes": 775098
+      },
+      {
+        "countedAt": "21:30",
+        "numberOfVotes": 840070
+      },
+      {
+        "countedAt": "22:30",
+        "numberOfVotes": 906557
+      }
+    ]
+  },
+  "geographicalConstituencies": [],
+  "functionalConstituencies": []
+}

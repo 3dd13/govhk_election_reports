@@ -15,13 +15,24 @@ DPSs 懲教院所
 
 ## TODO
 
+### Tech
+
+- [X] Json Schema validation at git commit
+
+
+### Data Structure Planning
+
 Other Data Sources to be Reviewed
 - [ ] https://data.gov.hk/en-datasets/search/election%20result
 - [ ] https://zh.wikipedia.org/wiki/2018%E5%B9%B411%E6%9C%88%E9%A6%99%E6%B8%AF%E7%AB%8B%E6%B3%95%E6%9C%83%E4%B9%9D%E9%BE%8D%E8%A5%BF%E5%9C%B0%E6%96%B9%E9%81%B8%E5%8D%80%E8%A3%9C%E9%81%B8
-
-2018 LCBE KW
 - [ ] include complaints breakdown
 - [ ] include Age and Sex distribution (not included in report, asking EAC for data source)
+
+
+### Data Sources
+
+2018 LCBE KW
+- [X] extract data from https://www.eac.hk/en/legco/2018lcbe_kw_detailreport.htm
 
 2018 LCBE
 - [ ] extract data from https://www.eac.hk/pdf/legco/2018lcbe_report/en/2018lcbe_full_report(Eng).pdf
