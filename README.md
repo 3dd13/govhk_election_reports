@@ -50,7 +50,7 @@ Other Data Sources to be Reviewed
 - [X] extract data from https://www.eac.hk/en/legco/2018lcbe_kw_detailreport.htm
 
 2018 LCBE
-- [ ] extract data from https://www.eac.hk/pdf/legco/2018lcbe_report/en/2018lcbe_full_report(Eng).pdf
+- [X] extract data from https://www.eac.hk/pdf/legco/2018lcbe_report/en/2018lcbe_full_report(Eng).pdf
 
 2016 LCE
 - [ ] extract data from https://www.eac.hk/pdf/legco/2016LCE_Report/ch/2016lce_full_report.pdf
