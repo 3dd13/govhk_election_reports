@@ -5,9 +5,11 @@
   "dataSource": "https://www.eac.hk/ch/legco/2018lcbe_detailreport.htm",
   "electionPeriod": {
     "startedAt": "2018/03/11 07:30",
-    "closedAt": "2018/03/11 22:30",
-    "dpssStartedAt": "2018/03/11 09:00",
-    "dpssClosedAt": "2018/03/11 16:00"
+    "endedAt": "2018/03/11 22:30"
+  },
+  "electionPeriodDpss": {
+    "startedAt": "2018/03/11 09:00",
+    "endedAt": "2018/03/11 16:00"
   },
   "candidateApplicationPeriod": {
     "startedAt": "2018/01/16 00:00",
@@ -18,9 +20,9 @@
     "endedAt": "2019/04/25 23:59"
   },
   "overallStatistics": {
-    "availableVotes": 487160,
-    "submittedVotes": 216522,
-    "voidedVotes": 1550,
+    "availableVotes": 2109329,
+    "submittedVotes": 911949,
+    "voidedVotes": 8255,
     "candidateApplications": {
       "receivedApplications": 18,
       "approvedApplications": 13
@@ -95,6 +97,403 @@
       }
     ]
   },
-  "geographicalConstituencies": [],
-  "functionalConstituencies": []
+  "constituencyStatistics": [
+    {
+      "nameZh": "香港島",
+      "nameEn": "HK Island",
+      "constituencyCode": "LC1",
+      "constituencyType": "geographical",
+      "availableVotes": 623273,
+      "submittedVotes": 272974,
+      "voidedVotes": 2362,
+      "accumulatedVotesByHour": [
+        {
+          "countedAt": "08:30",
+          "numberOfVotes": 6047
+        },
+        {
+          "countedAt": "09:30",
+          "numberOfVotes": 18244
+        },
+        {
+          "countedAt": "10:30",
+          "numberOfVotes": 36378
+        },
+        {
+          "countedAt": "11:30",
+          "numberOfVotes": 58065
+        },
+        {
+          "countedAt": "12:30",
+          "numberOfVotes": 80473
+        },
+        {
+          "countedAt": "13:30",
+          "numberOfVotes": 99948
+        },
+        {
+          "countedAt": "14:30",
+          "numberOfVotes": 120200
+        },
+        {
+          "countedAt": "15:30",
+          "numberOfVotes": 140520
+        },
+        {
+          "countedAt": "16:30",
+          "numberOfVotes": 160974
+        },
+        {
+          "countedAt": "17:30",
+          "numberOfVotes": 179884
+        },
+        {
+          "countedAt": "18:30",
+          "numberOfVotes": 198679
+        },
+        {
+          "countedAt": "19:30",
+          "numberOfVotes": 217503
+        },
+        {
+          "countedAt": "20:30",
+          "numberOfVotes": 235050
+        },
+        {
+          "countedAt": "21:30",
+          "numberOfVotes": 253885
+        },
+        {
+          "countedAt": "22:30",
+          "numberOfVotes": 272974
+        }
+      ],
+      "candidates": [
+        {
+          "candidateNumber": 1,
+          "nameZh": "區諾軒",
+          "nameEn": "ABC",
+          "receivedVotes": 137181,
+          "elected": true
+        },
+        {
+          "candidateNumber": 2,
+          "nameZh": "伍廸希",
+          "nameEn": "ABC",
+          "receivedVotes": 2202,
+          "elected": false
+        },
+        {
+          "candidateNumber": 3,
+          "nameZh": "任亮憲",
+          "nameEn": "ABC",
+          "receivedVotes": 3580,
+          "elected": false
+        },
+        {
+          "candidateNumber": 4,
+          "nameZh": "陳家珮",
+          "nameEn": "ABC",
+          "receivedVotes": 127634,
+          "elected": false
+        }
+      ]
+    },
+    {
+      "nameZh": "九龍西",
+      "nameEn": "ABC",
+      "constituencyType": "geographical",
+      "constituencyCode": "LC2",
+      "availableVotes": 489451,
+      "submittedVotes": 216895,
+      "voidedVotes": 1544,
+      "accumulatedVotesByHour": [
+        {
+          "countedAt": "08:30",
+          "numberOfVotes": 4402
+        },
+        {
+          "countedAt": "09:30",
+          "numberOfVotes": 15199
+        },
+        {
+          "countedAt": "10:30",
+          "numberOfVotes": 30811
+        },
+        {
+          "countedAt": "11:30",
+          "numberOfVotes": 48438
+        },
+        {
+          "countedAt": "12:30",
+          "numberOfVotes": 66125
+        },
+        {
+          "countedAt": "13:30",
+          "numberOfVotes": 81965
+        },
+        {
+          "countedAt": "14:30",
+          "numberOfVotes": 97828
+        },
+        {
+          "countedAt": "15:30",
+          "numberOfVotes": 114299
+        },
+        {
+          "countedAt": "16:30",
+          "numberOfVotes": 130191
+        },
+        {
+          "countedAt": "17:30",
+          "numberOfVotes": 145241
+        },
+        {
+          "countedAt": "18:30",
+          "numberOfVotes": 159880
+        },
+        {
+          "countedAt": "19:30",
+          "numberOfVotes": 174853
+        },
+        {
+          "countedAt": "20:30",
+          "numberOfVotes": 188677
+        },
+        {
+          "countedAt": "21:30",
+          "numberOfVotes": 202876
+        },
+        {
+          "countedAt": "22:30",
+          "numberOfVotes": 216895
+        }
+      ],
+      "candidates": [
+        {
+          "candidateNumber": 1,
+          "nameZh": "姚松炎",
+          "nameEn": "ABC",
+          "receivedVotes": 105060,
+          "elected": false
+        },
+        {
+          "candidateNumber": 2,
+          "nameZh": "鄭泳舜",
+          "nameEn": "ABC",
+          "receivedVotes": 107479,
+          "elected": true
+        },
+        {
+          "candidateNumber": 3,
+          "nameZh": "蔡東洲",
+          "nameEn": "ABC",
+          "receivedVotes": 2794,
+          "elected": false
+        }
+      ]
+    },
+    {
+      "nameZh": "新界東",
+      "nameEn": "ABC",
+      "constituencyType": "functional",
+      "constituencyCode": "LC5",
+      "availableVotes": 988986,
+      "submittedVotes": 416688,
+      "voidedVotes": 4349,
+      "accumulatedVotesByHour": [
+        {
+          "countedAt": "08:30",
+          "numberOfVotes": 7765
+        },
+        {
+          "countedAt": "09:30",
+          "numberOfVotes": 25516
+        },
+        {
+          "countedAt": "10:30",
+          "numberOfVotes": 52605
+        },
+        {
+          "countedAt": "11:30",
+          "numberOfVotes": 83255
+        },
+        {
+          "countedAt": "12:30",
+          "numberOfVotes": 114755
+        },
+        {
+          "countedAt": "13:30",
+          "numberOfVotes": 144108
+        },
+        {
+          "countedAt": "14:30",
+          "numberOfVotes": 173507
+        },
+        {
+          "countedAt": "15:30",
+          "numberOfVotes": 202911
+        },
+        {
+          "countedAt": "16:30",
+          "numberOfVotes": 232534
+        },
+        {
+          "countedAt": "17:30",
+          "numberOfVotes": 261664
+        },
+        {
+          "countedAt": "18:30",
+          "numberOfVotes": 291021
+        },
+        {
+          "countedAt": "19:30",
+          "numberOfVotes": 322028
+        },
+        {
+          "countedAt": "20:30",
+          "numberOfVotes": 351371
+        },
+        {
+          "countedAt": "21:30",
+          "numberOfVotes": 383309
+        },
+        {
+          "countedAt": "22:30",
+          "numberOfVotes": 416688
+        }
+      ],
+      "candidates": [
+        {
+          "candidateNumber": 1,
+          "nameZh": "黃成智",
+          "nameEn": "ABC",
+          "receivedVotes": 6182,
+          "elected": false
+        },
+        {
+          "candidateNumber": 2,
+          "nameZh": "方國珊（哪吒）",
+          "nameEn": "ABC",
+          "receivedVotes": 64905,
+          "elected": false
+        },
+        {
+          "candidateNumber": 3,
+          "nameZh": "陳玉娥（娥姐）",
+          "nameEn": "ABC",
+          "receivedVotes": 1504,
+          "elected": false
+        },
+        {
+          "candidateNumber": 4,
+          "nameZh": "鄧家彪",
+          "nameEn": "ABC",
+          "receivedVotes": 152904,
+          "elected": false
+        },
+        {
+          "candidateNumber": 5,
+          "nameZh": "趙佩玉（守城者）",
+          "nameEn": "ABC",
+          "receivedVotes": 3068,
+          "elected": false
+        },
+        {
+          "candidateNumber": 6,
+          "nameZh": "范國威",
+          "nameEn": "ABC",
+          "receivedVotes": 183762,
+          "elected": true
+        }
+      ]
+    },
+    {
+      "nameZh": "建築、測量、都市規劃及園境界",
+      "nameEn": "ABC",
+      "constituencyType": "functional",
+      "constituencyCode": "G",
+      "availableVotes": 623273,
+      "submittedVotes": 272974,
+      "voidedVotes": 119,
+      "accumulatedVotesByHour": [
+        {
+          "countedAt": "08:30",
+          "numberOfVotes": 108
+        },
+        {
+          "countedAt": "09:30",
+          "numberOfVotes": 305
+        },
+        {
+          "countedAt": "10:30",
+          "numberOfVotes": 616
+        },
+        {
+          "countedAt": "11:30",
+          "numberOfVotes": 1070
+        },
+        {
+          "countedAt": "12:30",
+          "numberOfVotes": 1487
+        },
+        {
+          "countedAt": "13:30",
+          "numberOfVotes": 1886
+        },
+        {
+          "countedAt": "14:30",
+          "numberOfVotes": 2330
+        },
+        {
+          "countedAt": "15:30",
+          "numberOfVotes": 2798
+        },
+        {
+          "countedAt": "16:30",
+          "numberOfVotes": 3220
+        },
+        {
+          "countedAt": "17:30",
+          "numberOfVotes": 3582
+        },
+        {
+          "countedAt": "18:30",
+          "numberOfVotes": 3954
+        },
+        {
+          "countedAt": "19:30",
+          "numberOfVotes": 4364
+        },
+        {
+          "countedAt": "20:30",
+          "numberOfVotes": 4669
+        },
+        {
+          "countedAt": "21:30",
+          "numberOfVotes": 5028
+        },
+        {
+          "countedAt": "22:30",
+          "numberOfVotes": 5392
+        }
+      ],
+      "candidates": [
+        {
+          "candidateNumber": 1,
+          "nameZh": "謝偉銓",
+          "nameEn": "ABC",
+          "receivedVotes": 2929,
+          "elected": true
+        },
+        {
+          "candidateNumber": 2,
+          "nameZh": "司馬文",
+          "nameEn": "ABC",
+          "receivedVotes": 2345,
+          "elected": false
+        }
+      ]
+    }
+  ]
 }

@@ -5,9 +5,11 @@
   "dataSource": "https://www.eac.hk/en/legco/2018lcbe_kw_detailreport.htm",
   "electionPeriod": {
     "startedAt": "2018/11/25 07:30",
-    "closedAt": "2018/11/25 22:30",
-    "dpssStartedAt": "2018/11/25 09:00",
-    "dpssClosedAt": "2018/11/25 16:00"
+    "endedAt": "2018/11/25 22:30"
+  },
+  "electionPeriodDpss": {
+    "startedAt": "2018/11/25 09:00",
+    "endedAt": "2018/11/25 16:00"
   },
   "candidateApplicationPeriod": {
     "startedAt": "2018/01/16 00:00",
@@ -95,127 +97,114 @@
       }
     ]
   },
-  "geographicalConstituencies": [
+  "constituencyStatistics": [
     {
-      "geographicNameZh": "九龍西",
-      "geographicNameEn": "Kowloon West",
+      "nameZh": "九龍西",
+      "nameEn": "Kowloon West",
+      "constituencyType": "geographical",
       "constituencyCode": "LC?",
-      "constituencyStatistics": {
-        "availableVotes": 487160,
-        "submittedVotes": 216522,
-        "voidedVotes": 1550,
-        "candidateApplications": {
-          "receivedApplications": 6,
-          "approvedApplications": 5
+      "availableVotes": 487160,
+      "submittedVotes": 216522,
+      "voidedVotes": 1550,
+      "accumulatedVotesByHour": [
+        {
+          "countedAt": "08:30",
+          "numberOfVotes": 4931
         },
-        "receivedComplaints": {
-          "againstEac": 252,
-          "againstRo": 257,
-          "againstPolice": 214,
-          "againstIcac": 18,
-          "againstPros": 32
+        {
+          "countedAt": "09:30",
+          "numberOfVotes": 16171
         },
-        "accumulatedVotesByHour": [
-          {
-            "countedAt": "08:30",
-            "numberOfVotes": 4931
-          },
-          {
-            "countedAt": "09:30",
-            "numberOfVotes": 16171
-          },
-          {
-            "countedAt": "10:30",
-            "numberOfVotes": 32204
-          },
-          {
-            "countedAt": "11:30",
-            "numberOfVotes": 50874
-          },
-          {
-            "countedAt": "12:30",
-            "numberOfVotes": 69230
-          },
-          {
-            "countedAt": "13:30",
-            "numberOfVotes": 82894
-          },
-          {
-            "countedAt": "14:30",
-            "numberOfVotes": 97404
-          },
-          {
-            "countedAt": "15:30",
-            "numberOfVotes": 113580
-          },
-          {
-            "countedAt": "16:30",
-            "numberOfVotes": 129767
-          },
-          {
-            "countedAt": "17:30",
-            "numberOfVotes": 143923
-          },
-          {
-            "countedAt": "18:30",
-            "numberOfVotes": 158630
-          },
-          {
-            "countedAt": "19:30",
-            "numberOfVotes": 174413
-          },
-          {
-            "countedAt": "20:30",
-            "numberOfVotes": 188233
-          },
-          {
-            "countedAt": "21:30",
-            "numberOfVotes": 202212
-          },
-          {
-            "countedAt": "22:30",
-            "numberOfVotes": 216522
-          }
-        ],
-        "candidates": [
-          {
-            "candidateNumber": 1,
-            "nameZh": "伍廸希",
-            "nameEn": "NG DICK HAY",
-            "receivedVotes": 1650,
-            "elected": false
-          },
-          {
-            "candidateNumber": 2,
-            "nameZh": "曾麗文",
-            "nameEn": "TZENG LI WEN JUDY",
-            "receivedVotes": 1307,
-            "elected": false
-          },
-          {
-            "candidateNumber": 3,
-            "nameZh": "李卓人",
-            "nameEn": "LEE CHEUK YAN",
-            "receivedVotes": 93047,
-            "elected": false
-          },
-          {
-            "candidateNumber": 4,
-            "nameZh": "馮檢基",
-            "nameEn": "FUNG KIN KEE FREDERICK",
-            "receivedVotes": 12509,
-            "elected": false
-          },
-          {
-            "candidateNumber": 5,
-            "nameZh": "陳凱欣",
-            "nameEn": "CHAN HOI YAN",
-            "receivedVotes": 106457,
-            "elected": true
-          }
-        ]
-      }
+        {
+          "countedAt": "10:30",
+          "numberOfVotes": 32204
+        },
+        {
+          "countedAt": "11:30",
+          "numberOfVotes": 50874
+        },
+        {
+          "countedAt": "12:30",
+          "numberOfVotes": 69230
+        },
+        {
+          "countedAt": "13:30",
+          "numberOfVotes": 82894
+        },
+        {
+          "countedAt": "14:30",
+          "numberOfVotes": 97404
+        },
+        {
+          "countedAt": "15:30",
+          "numberOfVotes": 113580
+        },
+        {
+          "countedAt": "16:30",
+          "numberOfVotes": 129767
+        },
+        {
+          "countedAt": "17:30",
+          "numberOfVotes": 143923
+        },
+        {
+          "countedAt": "18:30",
+          "numberOfVotes": 158630
+        },
+        {
+          "countedAt": "19:30",
+          "numberOfVotes": 174413
+        },
+        {
+          "countedAt": "20:30",
+          "numberOfVotes": 188233
+        },
+        {
+          "countedAt": "21:30",
+          "numberOfVotes": 202212
+        },
+        {
+          "countedAt": "22:30",
+          "numberOfVotes": 216522
+        }
+      ],
+      "candidates": [
+        {
+          "candidateNumber": 1,
+          "nameZh": "伍廸希",
+          "nameEn": "NG DICK HAY",
+          "receivedVotes": 1650,
+          "elected": false
+        },
+        {
+          "candidateNumber": 2,
+          "nameZh": "曾麗文",
+          "nameEn": "TZENG LI WEN JUDY",
+          "receivedVotes": 1307,
+          "elected": false
+        },
+        {
+          "candidateNumber": 3,
+          "nameZh": "李卓人",
+          "nameEn": "LEE CHEUK YAN",
+          "receivedVotes": 93047,
+          "elected": false
+        },
+        {
+          "candidateNumber": 4,
+          "nameZh": "馮檢基",
+          "nameEn": "FUNG KIN KEE FREDERICK",
+          "receivedVotes": 12509,
+          "elected": false
+        },
+        {
+          "candidateNumber": 5,
+          "nameZh": "陳凱欣",
+          "nameEn": "CHAN HOI YAN",
+          "receivedVotes": 106457,
+          "elected": true
+        }
+      ]
     }
-  ],
-  "functionalConstituencies": []
+  ]
 }
