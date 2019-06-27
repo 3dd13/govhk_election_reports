@@ -23,6 +23,7 @@
     "availableVotes": 2109329,
     "submittedVotes": 911949,
     "voidedVotes": 8255,
+    "voteSubmissionPercentage": 43.23,
     "candidateApplications": {
       "receivedApplications": 18,
       "approvedApplications": 13
@@ -106,6 +107,7 @@
       "availableVotes": 623273,
       "submittedVotes": 272974,
       "voidedVotes": 2362,
+      "voteSubmissionPercentage": 43.80,
       "accumulatedVotesByHour": [
         {
           "countedAt": "08:30",
@@ -172,28 +174,28 @@
         {
           "candidateNumber": 1,
           "nameZh": "區諾軒",
-          "nameEn": "ABC",
+          "nameEn": "AU NOK HIN",
           "receivedVotes": 137181,
           "elected": true
         },
         {
           "candidateNumber": 2,
           "nameZh": "伍廸希",
-          "nameEn": "ABC",
+          "nameEn": "NG DICK HAY",
           "receivedVotes": 2202,
           "elected": false
         },
         {
           "candidateNumber": 3,
           "nameZh": "任亮憲",
-          "nameEn": "ABC",
+          "nameEn": "YUM EDWARD LIANG HSIEN",
           "receivedVotes": 3580,
           "elected": false
         },
         {
           "candidateNumber": 4,
           "nameZh": "陳家珮",
-          "nameEn": "ABC",
+          "nameEn": "CHAN JUDY KAPUI",
           "receivedVotes": 127634,
           "elected": false
         }
@@ -207,6 +209,7 @@
       "availableVotes": 489451,
       "submittedVotes": 216895,
       "voidedVotes": 1544,
+      "voteSubmissionPercentage": 44.31,
       "accumulatedVotesByHour": [
         {
           "countedAt": "08:30",
@@ -273,21 +276,21 @@
         {
           "candidateNumber": 1,
           "nameZh": "姚松炎",
-          "nameEn": "ABC",
+          "nameEn": "YIU CHUNG YIM",
           "receivedVotes": 105060,
           "elected": false
         },
         {
           "candidateNumber": 2,
           "nameZh": "鄭泳舜",
-          "nameEn": "ABC",
+          "nameEn": "CHENG WING SHUN VINCENT",
           "receivedVotes": 107479,
           "elected": true
         },
         {
           "candidateNumber": 3,
           "nameZh": "蔡東洲",
-          "nameEn": "ABC",
+          "nameEn": "TSOI TUNG CHAU (JONATHAN)",
           "receivedVotes": 2794,
           "elected": false
         }
@@ -301,6 +304,7 @@
       "availableVotes": 988986,
       "submittedVotes": 416688,
       "voidedVotes": 4349,
+      "voteSubmissionPercentage": 42.13,
       "accumulatedVotesByHour": [
         {
           "countedAt": "08:30",
@@ -367,42 +371,42 @@
         {
           "candidateNumber": 1,
           "nameZh": "黃成智",
-          "nameEn": "ABC",
+          "nameEn": "WONG SING CHI",
           "receivedVotes": 6182,
           "elected": false
         },
         {
           "candidateNumber": 2,
           "nameZh": "方國珊（哪吒）",
-          "nameEn": "ABC",
+          "nameEn": "FONG KWOK SHAN CHRISTINE",
           "receivedVotes": 64905,
           "elected": false
         },
         {
           "candidateNumber": 3,
           "nameZh": "陳玉娥（娥姐）",
-          "nameEn": "ABC",
+          "nameEn": "CHAN YUK NGOR ESTELLA (JENNY)",
           "receivedVotes": 1504,
           "elected": false
         },
         {
           "candidateNumber": 4,
           "nameZh": "鄧家彪",
-          "nameEn": "ABC",
+          "nameEn": "TANG KA PIU",
           "receivedVotes": 152904,
           "elected": false
         },
         {
           "candidateNumber": 5,
           "nameZh": "趙佩玉（守城者）",
-          "nameEn": "ABC",
+          "nameEn": "CHIU PUI YUK JOYCE",
           "receivedVotes": 3068,
           "elected": false
         },
         {
           "candidateNumber": 6,
           "nameZh": "范國威",
-          "nameEn": "ABC",
+          "nameEn": "FAN GARY KWOK WAI",
           "receivedVotes": 183762,
           "elected": true
         }
@@ -413,9 +417,10 @@
       "nameEn": "ABC",
       "constituencyType": "functional",
       "constituencyCode": "G",
-      "availableVotes": 623273,
-      "submittedVotes": 272974,
+      "availableVotes": 7619,
+      "submittedVotes": 5392,
       "voidedVotes": 119,
+      "voteSubmissionPercentage": 70.77,
       "accumulatedVotesByHour": [
         {
           "countedAt": "08:30",
@@ -482,14 +487,14 @@
         {
           "candidateNumber": 1,
           "nameZh": "謝偉銓",
-          "nameEn": "ABC",
+          "nameEn": "TSE WAI CHUEN TONY",
           "receivedVotes": 2929,
           "elected": true
         },
         {
           "candidateNumber": 2,
           "nameZh": "司馬文",
-          "nameEn": "ABC",
+          "nameEn": "ZIMMERMAN PAULUS JOHANNES (PAUL ZIMMERMAN)",
           "receivedVotes": 2345,
           "elected": false
         }

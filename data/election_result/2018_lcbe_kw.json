@@ -23,6 +23,7 @@
     "availableVotes": 487160,
     "submittedVotes": 216522,
     "voidedVotes": 1550,
+    "voteSubmissionPercentage": 44.45,
     "candidateApplications": {
       "receivedApplications": 6,
       "approvedApplications": 5
@@ -106,6 +107,7 @@
       "availableVotes": 487160,
       "submittedVotes": 216522,
       "voidedVotes": 1550,
+      "voteSubmissionPercentage": 44.45,
       "accumulatedVotesByHour": [
         {
           "countedAt": "08:30",
