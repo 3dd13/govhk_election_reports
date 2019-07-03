@@ -299,7 +299,7 @@
     {
       "nameZh": "新界東",
       "nameEn": "ABC",
-      "constituencyType": "functional",
+      "constituencyType": "geographical",
       "constituencyCode": "LC5",
       "availableVotes": 988986,
       "submittedVotes": 416688,
