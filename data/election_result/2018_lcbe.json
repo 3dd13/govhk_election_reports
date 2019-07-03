@@ -203,7 +203,7 @@
     },
     {
       "nameZh": "九龍西",
-      "nameEn": "ABC",
+      "nameEn": "Kowloon West",
       "constituencyType": "geographical",
       "constituencyCode": "LC2",
       "availableVotes": 489451,
@@ -298,7 +298,7 @@
     },
     {
       "nameZh": "新界東",
-      "nameEn": "ABC",
+      "nameEn": "New Territories East",
       "constituencyType": "geographical",
       "constituencyCode": "LC5",
       "availableVotes": 988986,
@@ -414,7 +414,7 @@
     },
     {
       "nameZh": "建築、測量、都市規劃及園境界",
-      "nameEn": "ABC",
+      "nameEn": "Architectural, Surveying, Planning and Landscape",
       "constituencyType": "functional",
       "constituencyCode": "G",
       "availableVotes": 7619,
