@@ -170,6 +170,7 @@
         "nameEn",
         "constituencyCode",
         "constituencyType",
+        "autoDulyElected",
         "availableVotes",
         "submittedVotes",
         "voidedVotes",
@@ -195,6 +196,10 @@
         "constituencyType": {
           "type": "string",
           "pattern": "geographical|functional|district"
+        },
+        "autoDulyElected": {
+          "type": "boolean",
+          "default": false
         },
         "availableVotes": {
           "type": "number",
