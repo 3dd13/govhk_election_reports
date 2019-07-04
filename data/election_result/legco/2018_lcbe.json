@@ -179,10 +179,10 @@
           "receivedVotes": 137181,
           "elected": true,
           "gender": "male",
-          "occupationEn": "",
-          "occupationZh": "",
-          "policticalAffiliationEn": "**",
-          "policticalAffiliationZh": "**"
+          "occupationEn": "District Councillor, Lecturer",
+          "occupationZh": "區議員，大學講師",
+          "policticalAffiliationEn": "Democrats",
+          "policticalAffiliationZh": "民主派"
         },
         {
           "candidateNumber": 2,
@@ -191,8 +191,8 @@
           "receivedVotes": 2202,
           "elected": false,
           "gender": "male",
-          "occupationEn": "",
-          "occupationZh": "",
+          "occupationEn": "Information Technology",
+          "occupationZh": "資訊科技",
           "policticalAffiliationEn": "**",
           "policticalAffiliationZh": "**"
         },
@@ -203,8 +203,8 @@
           "receivedVotes": 3580,
           "elected": false,
           "gender": "male",
-          "occupationEn": "",
-          "occupationZh": "",
+          "occupationEn": "Company Director",
+          "occupationZh": "公司董事",
           "policticalAffiliationEn": "**",
           "policticalAffiliationZh": "**"
         },
@@ -214,11 +214,11 @@
           "nameEn": "CHAN JUDY KAPUI",
           "receivedVotes": 127634,
           "elected": false,
-          "gender": "male",
-          "occupationEn": "",
-          "occupationZh": "",
-          "policticalAffiliationEn": "**",
-          "policticalAffiliationZh": "**"
+          "gender": "female",
+          "occupationEn": "District Councillor",
+          "occupationZh": "區議員",
+          "policticalAffiliationEn": "New People's Party",
+          "policticalAffiliationZh": "新民黨"
         }
       ]
     },
@@ -314,10 +314,10 @@
           "receivedVotes": 107479,
           "elected": true,
           "gender": "male",
-          "occupationEn": "",
-          "occupationZh": "",
-          "policticalAffiliationEn": "**",
-          "policticalAffiliationZh": "**"
+          "occupationEn": "Deputy Executive Director, District Councilor",
+          "occupationZh": "社企副總幹事，區議員",
+          "policticalAffiliationEn": "Democratic Alliance for the Betterment and Progress of Hong Kong (DAB)",
+          "policticalAffiliationZh": "民主建港協進聯盟 (民建聯)"
         },
         {
           "candidateNumber": 3,
@@ -326,10 +326,10 @@
           "receivedVotes": 2794,
           "elected": false,
           "gender": "male",
-          "occupationEn": "",
-          "occupationZh": "",
+          "occupationEn": "Physiotherapist",
+          "occupationZh": "物理治療師",
           "policticalAffiliationEn": "**",
-          "policticalAffiliationZh": "**"
+          "policticalAffiliationZh": "獨立"
         }
       ]
     },
@@ -413,8 +413,8 @@
           "receivedVotes": 6182,
           "elected": false,
           "gender": "male",
-          "occupationEn": "",
-          "occupationZh": "",
+          "occupationEn": "Training Consultant",
+          "occupationZh": "專業培訓顧問",
           "policticalAffiliationEn": "**",
           "policticalAffiliationZh": "**"
         },
@@ -424,11 +424,11 @@
           "nameEn": "FONG KWOK SHAN CHRISTINE",
           "receivedVotes": 64905,
           "elected": false,
-          "gender": "male",
-          "occupationEn": "",
-          "occupationZh": "",
-          "policticalAffiliationEn": "**",
-          "policticalAffiliationZh": "**"
+          "gender": "female",
+          "occupationEn": "Elected Councillor",
+          "occupationZh": "民選議員",
+          "policticalAffiliationEn": "Livelihood First",
+          "policticalAffiliationZh": "最貼地民生派"
         },
         {
           "candidateNumber": 3,
@@ -436,11 +436,11 @@
           "nameEn": "CHAN YUK NGOR ESTELLA (JENNY)",
           "receivedVotes": 1504,
           "elected": false,
-          "gender": "male",
-          "occupationEn": "",
-          "occupationZh": "",
-          "policticalAffiliationEn": "**",
-          "policticalAffiliationZh": "**"
+          "gender": "female",
+          "occupationEn": "Director",
+          "occupationZh": "公司董事",
+          "policticalAffiliationEn": "Independent Non-affiliated Candidate",
+          "policticalAffiliationZh": "獨立無黨派候選人"
         },
         {
           "candidateNumber": 4,
@@ -449,10 +449,10 @@
           "receivedVotes": 152904,
           "elected": false,
           "gender": "male",
-          "occupationEn": "",
-          "occupationZh": "",
-          "policticalAffiliationEn": "**",
-          "policticalAffiliationZh": "**"
+          "occupationEn": "District Council Member",
+          "occupationZh": "區議員",
+          "policticalAffiliationEn": "The Hong Kong Federation of Trade Unions(FTU), Democratic Alliance for the Betterment and Progress of Hong Kong (DAB)",
+          "policticalAffiliationZh": "香港工會聯合會(工聯會)，民主建港協進聯盟(民建聯)"
         },
         {
           "candidateNumber": 5,
@@ -460,9 +460,9 @@
           "nameEn": "CHIU PUI YUK JOYCE",
           "receivedVotes": 3068,
           "elected": false,
-          "gender": "male",
-          "occupationEn": "",
-          "occupationZh": "",
+          "gender": "female",
+          "occupationEn": "Retired Nursery Teacher",
+          "occupationZh": "退休幼師",
           "policticalAffiliationEn": "**",
           "policticalAffiliationZh": "**"
         },
@@ -473,10 +473,10 @@
           "receivedVotes": 183762,
           "elected": true,
           "gender": "male",
-          "occupationEn": "",
-          "occupationZh": "",
-          "policticalAffiliationEn": "**",
-          "policticalAffiliationZh": "**"
+          "occupationEn": "District Councillor",
+          "occupationZh": "區議員",
+          "policticalAffiliationEn": "Neo Democrats",
+          "policticalAffiliationZh": "新民主同盟"
         }
       ]
     },
@@ -560,7 +560,7 @@
           "receivedVotes": 2929,
           "elected": true,
           "gender": "male",
-          "occupationEn": "",
+          "occupationEn": "Surveyor",
           "occupationZh": "",
           "policticalAffiliationEn": "**",
           "policticalAffiliationZh": "**"
@@ -572,10 +572,10 @@
           "receivedVotes": 2345,
           "elected": false,
           "gender": "male",
-          "occupationEn": "",
-          "occupationZh": "",
-          "policticalAffiliationEn": "**",
-          "policticalAffiliationZh": "**"
+          "occupationEn": "Urbanist, District Councillor",
+          "occupationZh": "城市研究者，區議員",
+          "policticalAffiliationEn": "Independent Democrat",
+          "policticalAffiliationZh": "獨立民主派"
         }
       ]
     }

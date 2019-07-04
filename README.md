@@ -41,6 +41,8 @@ Other Data Sources to be Reviewed
 - [ ] https://zh.wikipedia.org/wiki/2018%E5%B9%B411%E6%9C%88%E9%A6%99%E6%B8%AF%E7%AB%8B%E6%B3%95%E6%9C%83%E4%B9%9D%E9%BE%8D%E8%A5%BF%E5%9C%B0%E6%96%B9%E9%81%B8%E5%8D%80%E8%A3%9C%E9%81%B8
 - [ ] include complaints breakdown
 - [ ] include candidate application details
+  - DQ-ed
+  - withdraw application
 - [ ] include 獲准進行票站調查的人士和機構的名單
 - [ ]
 
