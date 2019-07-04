@@ -1,0 +1,204 @@
+{
+  "nameZh": "2019年油尖旺區議會大南選區補選",
+  "nameEn": "2019 Yau Tsim Mong District Council Tai Nan Constituency By-election",
+  "code": "2019_ytmd_tn",
+  "dataSource": "https://www.eac.hk/ch/distco/2019ytmd_tn_elect.htm",
+  "electionPeriod": {
+    "startedAt": "2019/07/14 07:30",
+    "endedAt": "2019/07/14 22:30"
+  },
+  "electionPeriodDpss": {
+    "startedAt": "2019/07/14 09:00",
+    "endedAt": "2019/07/14 16:00"
+  },
+  "candidateApplicationPeriod": {
+    "startedAt": "2019/02/08 09:00",
+    "endedAt": "2019/02/21 17:00"
+  },
+  "complaintsHandlingPeriod": {
+    "startedAt": "2019/01/01 00:00",
+    "endedAt": "2019/01/01 23:59"
+  },
+  "overallStatistics": {
+    "availableVotes": 7257,
+    "submittedVotes": 2495,
+    "voidedVotes": 0,
+    "voteSubmissionPercentage": 34.38,
+    "candidateApplications": {
+      "receivedApplications": 2,
+      "approvedApplications": 2
+    },
+    "receivedComplaints": {
+      "againstEac": 0,
+      "againstRo": 0,
+      "againstPolice": 0,
+      "againstIcac": 0,
+      "againstPros": 0
+    },
+    "accumulatedVotesByHour": [
+      {
+        "countedAt": "08:30",
+        "numberOfVotes": 73
+      },
+      {
+        "countedAt": "09:30",
+        "numberOfVotes": 231
+      },
+      {
+        "countedAt": "10:30",
+        "numberOfVotes": 417
+      },
+      {
+        "countedAt": "11:30",
+        "numberOfVotes": 647
+      },
+      {
+        "countedAt": "12:30",
+        "numberOfVotes": 836
+      },
+      {
+        "countedAt": "13:30",
+        "numberOfVotes": 1002
+      },
+      {
+        "countedAt": "14:30",
+        "numberOfVotes": 1197
+      },
+      {
+        "countedAt": "15:30",
+        "numberOfVotes": 1393
+      },
+      {
+        "countedAt": "16:30",
+        "numberOfVotes": 1588
+      },
+      {
+        "countedAt": "17:30",
+        "numberOfVotes": 1742
+      },
+      {
+        "countedAt": "18:30",
+        "numberOfVotes": 1896
+      },
+      {
+        "countedAt": "19:30",
+        "numberOfVotes": 2045
+      },
+      {
+        "countedAt": "20:30",
+        "numberOfVotes": 2200
+      },
+      {
+        "countedAt": "21:30",
+        "numberOfVotes": 2354
+      },
+      {
+        "countedAt": "22:30",
+        "numberOfVotes": 2495
+      }
+    ]
+  },
+  "constituencyStatistics": [
+    {
+      "nameZh": "大南選區",
+      "nameEn": "Tai Nan Constituency",
+      "districtNameZh": "油尖旺區議會",
+      "districtNameEn": "Yau Tsim Mong District Council",
+      "constituencyType": "district",
+      "constituencyCode": "?",
+      "autoDulyElected": false,
+      "availableVotes": 7257,
+      "submittedVotes": 2495,
+      "voidedVotes": 0,
+      "voteSubmissionPercentage": 34.38,
+      "accumulatedVotesByHour": [
+        {
+          "countedAt": "08:30",
+          "numberOfVotes": 73
+        },
+        {
+          "countedAt": "09:30",
+          "numberOfVotes": 231
+        },
+        {
+          "countedAt": "10:30",
+          "numberOfVotes": 417
+        },
+        {
+          "countedAt": "11:30",
+          "numberOfVotes": 647
+        },
+        {
+          "countedAt": "12:30",
+          "numberOfVotes": 836
+        },
+        {
+          "countedAt": "13:30",
+          "numberOfVotes": 1002
+        },
+        {
+          "countedAt": "14:30",
+          "numberOfVotes": 1197
+        },
+        {
+          "countedAt": "15:30",
+          "numberOfVotes": 1393
+        },
+        {
+          "countedAt": "16:30",
+          "numberOfVotes": 1588
+        },
+        {
+          "countedAt": "17:30",
+          "numberOfVotes": 1742
+        },
+        {
+          "countedAt": "18:30",
+          "numberOfVotes": 1896
+        },
+        {
+          "countedAt": "19:30",
+          "numberOfVotes": 2045
+        },
+        {
+          "countedAt": "20:30",
+          "numberOfVotes": 2200
+        },
+        {
+          "countedAt": "21:30",
+          "numberOfVotes": 2354
+        },
+        {
+          "countedAt": "22:30",
+          "numberOfVotes": 2495
+        }
+      ],
+      "candidates": [
+        {
+          "candidateNumber": 1,
+          "nameZh": "李國權",
+          "nameEn": "LEE Kwok-kuen",
+          "receivedVotes": 1134,
+          "elected": false,
+          "gender": "male",
+          "occupationEn": "**",
+          "occupationZh": "社工",
+          "policticalAffiliationEn": "Community March",
+          "policticalAffiliationZh": "社區前進"
+        },
+        {
+          "candidateNumber": 2,
+          "nameZh": "李思敏",
+          "nameEn": "LI Sze-man",
+          "receivedVotes": 1343,
+          "elected": true,
+          "gender": "female",
+          "occupationEn": "**",
+          "occupationZh": "體育總監",
+          "policticalAffiliationEn": "Business and Professionals Alliance for Hong Kong",
+          "policticalAffiliationZh": "香港經濟民生聯盟"
+        }
+      ]
+    }
+  ]
+}

@@ -124,7 +124,12 @@
         "nameZh",
         "nameEn",
         "receivedVotes",
-        "elected"
+        "elected",
+        "gender",
+        "occupationEn",
+        "occupationZh",
+        "policticalAffiliationEn",
+        "policticalAffiliationZh"
       ],
       "additionalProperties": false,
       "properties": {
@@ -160,6 +165,28 @@
           "type": "boolean",
           "title": "Elected?",
           "default": false
+        },
+        "gender": {
+          "type": "string",
+          "title": "Gender",
+          "default": "",
+          "pattern": "male|female"
+        },
+        "occupationEn": {
+          "type": "string",
+          "title": "Occupation (English)"
+        },
+        "occupationZh": {
+          "type": "string",
+          "title": "Occupation (Chinese)"
+        },
+        "policticalAffiliationEn": {
+          "type": "string",
+          "title": "Political Affiliation (English)"
+        },
+        "policticalAffiliationZh": {
+          "type": "string",
+          "title": "Political Affiliation (Chinese)"
         }
       }
     },

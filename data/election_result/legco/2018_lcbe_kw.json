@@ -177,35 +177,60 @@
           "nameZh": "伍廸希",
           "nameEn": "NG DICK HAY",
           "receivedVotes": 1650,
-          "elected": false
+          "elected": false,
+          "gender": "male",
+          "occupationEn": "I.T.",
+          "occupationZh": "資訊科技",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
         },
         {
           "candidateNumber": 2,
           "nameZh": "曾麗文",
           "nameEn": "TZENG LI WEN JUDY",
           "receivedVotes": 1307,
-          "elected": false
+          "elected": false,
+          "gender": "female",
+          "occupationEn": "",
+          "occupationZh": "主婦(全職反地產霸權)，社運",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
         },
         {
           "candidateNumber": 3,
           "nameZh": "李卓人",
           "nameEn": "LEE CHEUK YAN",
           "receivedVotes": 93047,
-          "elected": false
+          "elected": false,
+          "gender": "male",
+          "occupationEn": "Trade Union Secretary",
+          "occupationZh": "工會幹事",
+          "policticalAffiliationEn": "Labour Party",
+          "policticalAffiliationZh": "工黨"
         },
         {
           "candidateNumber": 4,
           "nameZh": "馮檢基",
           "nameEn": "FUNG KIN KEE FREDERICK",
           "receivedVotes": 12509,
-          "elected": false
+          "elected": false,
+          "gender": "male",
+          "occupationEn": "",
+          "occupationZh": "",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
         },
         {
           "candidateNumber": 5,
           "nameZh": "陳凱欣",
           "nameEn": "CHAN HOI YAN",
           "receivedVotes": 106457,
-          "elected": true
+          "elected": true,
+          "gender": "female",
+          "occupationEn": "Former CEO of Social Enterprise",
+          "occupationZh": "前社企行政總裁",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
         }
       ]
     }

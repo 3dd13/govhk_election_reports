@@ -177,28 +177,48 @@
           "nameZh": "區諾軒",
           "nameEn": "AU NOK HIN",
           "receivedVotes": 137181,
-          "elected": true
+          "elected": true,
+          "gender": "male",
+          "occupationEn": "",
+          "occupationZh": "",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
         },
         {
           "candidateNumber": 2,
           "nameZh": "伍廸希",
           "nameEn": "NG DICK HAY",
           "receivedVotes": 2202,
-          "elected": false
+          "elected": false,
+          "gender": "male",
+          "occupationEn": "",
+          "occupationZh": "",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
         },
         {
           "candidateNumber": 3,
           "nameZh": "任亮憲",
           "nameEn": "YUM EDWARD LIANG HSIEN",
           "receivedVotes": 3580,
-          "elected": false
+          "elected": false,
+          "gender": "male",
+          "occupationEn": "",
+          "occupationZh": "",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
         },
         {
           "candidateNumber": 4,
           "nameZh": "陳家珮",
           "nameEn": "CHAN JUDY KAPUI",
           "receivedVotes": 127634,
-          "elected": false
+          "elected": false,
+          "gender": "male",
+          "occupationEn": "",
+          "occupationZh": "",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
         }
       ]
     },
@@ -280,21 +300,36 @@
           "nameZh": "姚松炎",
           "nameEn": "YIU CHUNG YIM",
           "receivedVotes": 105060,
-          "elected": false
+          "elected": false,
+          "gender": "male",
+          "occupationEn": "",
+          "occupationZh": "",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
         },
         {
           "candidateNumber": 2,
           "nameZh": "鄭泳舜",
           "nameEn": "CHENG WING SHUN VINCENT",
           "receivedVotes": 107479,
-          "elected": true
+          "elected": true,
+          "gender": "male",
+          "occupationEn": "",
+          "occupationZh": "",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
         },
         {
           "candidateNumber": 3,
           "nameZh": "蔡東洲",
           "nameEn": "TSOI TUNG CHAU (JONATHAN)",
           "receivedVotes": 2794,
-          "elected": false
+          "elected": false,
+          "gender": "male",
+          "occupationEn": "",
+          "occupationZh": "",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
         }
       ]
     },
@@ -376,42 +411,72 @@
           "nameZh": "黃成智",
           "nameEn": "WONG SING CHI",
           "receivedVotes": 6182,
-          "elected": false
+          "elected": false,
+          "gender": "male",
+          "occupationEn": "",
+          "occupationZh": "",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
         },
         {
           "candidateNumber": 2,
           "nameZh": "方國珊（哪吒）",
           "nameEn": "FONG KWOK SHAN CHRISTINE",
           "receivedVotes": 64905,
-          "elected": false
+          "elected": false,
+          "gender": "male",
+          "occupationEn": "",
+          "occupationZh": "",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
         },
         {
           "candidateNumber": 3,
           "nameZh": "陳玉娥（娥姐）",
           "nameEn": "CHAN YUK NGOR ESTELLA (JENNY)",
           "receivedVotes": 1504,
-          "elected": false
+          "elected": false,
+          "gender": "male",
+          "occupationEn": "",
+          "occupationZh": "",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
         },
         {
           "candidateNumber": 4,
           "nameZh": "鄧家彪",
           "nameEn": "TANG KA PIU",
           "receivedVotes": 152904,
-          "elected": false
+          "elected": false,
+          "gender": "male",
+          "occupationEn": "",
+          "occupationZh": "",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
         },
         {
           "candidateNumber": 5,
           "nameZh": "趙佩玉（守城者）",
           "nameEn": "CHIU PUI YUK JOYCE",
           "receivedVotes": 3068,
-          "elected": false
+          "elected": false,
+          "gender": "male",
+          "occupationEn": "",
+          "occupationZh": "",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
         },
         {
           "candidateNumber": 6,
           "nameZh": "范國威",
           "nameEn": "FAN GARY KWOK WAI",
           "receivedVotes": 183762,
-          "elected": true
+          "elected": true,
+          "gender": "male",
+          "occupationEn": "",
+          "occupationZh": "",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
         }
       ]
     },
@@ -493,14 +558,24 @@
           "nameZh": "謝偉銓",
           "nameEn": "TSE WAI CHUEN TONY",
           "receivedVotes": 2929,
-          "elected": true
+          "elected": true,
+          "gender": "male",
+          "occupationEn": "",
+          "occupationZh": "",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
         },
         {
           "candidateNumber": 2,
           "nameZh": "司馬文",
           "nameEn": "ZIMMERMAN PAULUS JOHANNES (PAUL ZIMMERMAN)",
           "receivedVotes": 2345,
-          "elected": false
+          "elected": false,
+          "gender": "male",
+          "occupationEn": "",
+          "occupationZh": "",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
         }
       ]
     }

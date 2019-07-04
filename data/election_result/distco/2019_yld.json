@@ -179,14 +179,25 @@
           "nameZh": "文家駒",
           "nameEn": "MAN KA KOY",
           "receivedVotes": 0,
-          "elected": false
+          "elected": false,
+          "gender": "male",
+          "occupationEn": "Registered Foreign Lawyer",
+          "occupationZh": "註冊海外律師",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
         },
         {
           "candidateNumber": 2,
           "nameZh": "文嘉豪",
           "nameEn": "MAN KA HO DONALD",
           "receivedVotes": 0,
-          "elected": false
+          "elected": false,
+          "gender": "male",
+          "occupationEn": "Rope Skipping Coach",
+          "occupationZh": "花式跳繩教練",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
+
         }
       ]
     },
@@ -207,9 +218,14 @@
         {
           "candidateNumber": 1,
           "nameZh": "梁福元",
-          "nameEn": "NG DICK HAY",
+          "nameEn": "LEUNG Fuk-yuen",
           "receivedVotes": 0,
-          "elected": true
+          "elected": true,
+          "gender": "male",
+          "occupationEn": "Merchant",
+          "occupationZh": "商人",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
         }
       ]
     }
