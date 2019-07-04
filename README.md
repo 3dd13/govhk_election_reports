@@ -44,7 +44,7 @@ Other Data Sources to be Reviewed
 
 ### Data Sources
 
-#### Election Result
+#### Legco
 
 2018 LCBE KW
 - [X] extract data from https://www.eac.hk/en/legco/2018lcbe_kw_detailreport.htm
@@ -85,6 +85,67 @@ Other Data Sources to be Reviewed
 1998 LCE
 - [ ] extract data from https://www.info.gov.hk/chinfo/98eac-c.htm
 
+#### Distco
+
+##### District map
+
+- [ ] https://www.eac.hk/ch/distco/2019dc_boundary.htm
+- [ ] https://www.eac.hk/ch/distco/2015dc_boundary.htm
+- [ ] https://www.eac.hk/ch/distco/2011dc_boundary.htm
+- [ ] https://www.eac.hk/ch/distco/2007dc_boundary.htm
+- [ ] https://www.eac.hk/ch/distco/2003dc_boundary.htm
+- [ ] https://www.eac.hk/ch/distco/boundary.htm
+
+##### Election Result
+
+https://www.eac.hk/ch/distco/dce.htm
+
+- [ ] 2019年元朗區議會補選
+- [ ] 2019年油尖旺區議會大南選區補選
+- [ ] 2018年東區區議會佳曉選區補選
+- [ ] 2017年中西區區議會補選
+- [ ] 2015年區議會一般選舉
+- [ ] 2015年大埔區議會新富選區補選
+- [ ] 2014年離島區議會坪洲及喜靈洲選區補選
+- [ ] 2014年東區區議會南豐選區補選
+- [ ] 2014年離島區議會東涌北選區補選
+- [ ] 2014年南區區議會海怡西選區補選
+- [ ] 2013年油尖旺區議會京士柏選區補選
+- [ ] 2013年觀塘區議會坪石選區補選
+- [ ] 2013年沙田區議會田心選區補選
+- [ ] 2012年沙田區議會鞍泰選區補選
+- [ ] 2011年區議會選舉
+- [ ] 2011年荃灣區議會福來選區補選
+- [ ] 2011年元朗區議會十八鄉北選區補選
+- [ ] 2010年南區區議會薄扶林選區補選
+- [ ] 2009年葵青區議會葵盛東邨選區補選
+- [ ] 2009年灣仔區議會鵝頸選區補選
+- [ ] 2009年沙田區議會大圍選區補選
+- [ ] 2008年黃大仙區議會慈雲西選區補選
+- [ ] 2008年油尖旺區議會佐敦東選區補選
+- [ ] 2007年區議會選舉
+- [ ] 2007年九龍城區議會紅磡灣選區補選
+- [ ] 2007年大埔區議會康樂園選區補選
+- [ ] 2007年觀塘區議會啓業選區補選
+- [ ] 2007年沙田區議會錦英選區補選
+- [ ] 2006年東區區議會翠灣選區補選
+- [ ] 2006年中西區區議會正街選區補選
+- [ ] 2005年觀塘區議會景田選區補選
+- [ ] 2005年南區區議會鴨脷洲北選區補選
+- [ ] 2005年深水埗區議會南昌中選區補選
+- [ ] 2005年東區區議會堡壘選區補選
+- [ ] 2004年南區區議會田灣選區補選
+- [ ] 2003年區議會選舉
+- [ ] 2003年深水埗區議會麗閣選區補選
+- [ ] 2003年深水埗區議會美孚選區補選
+- [ ] 2003年九龍城區議會海心選區補選
+- [ ] 2002年九龍城區議會啟德選區補選
+- [ ] 2000年北區區議會鳳翠選區補選
+- [ ] 1999年區議會選舉
+
+#### Rural
+
+https://www.eac.hk/ch/rural/rre.htm
 
 #### Age and Sex distribution
 
