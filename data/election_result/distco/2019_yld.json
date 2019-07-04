@@ -1,0 +1,215 @@
+{
+  "nameZh": "2019年元朗區議會補選",
+  "nameEn": "2019 Yuen Long District Council By-election",
+  "code": "2019_yld",
+  "dataSource": "https://www.eac.hk/ch/distco/2019yld_elect.htm",
+  "electionPeriod": {
+    "startedAt": "2019/07/14 07:30",
+    "endedAt": "2019/07/14 22:30"
+  },
+  "electionPeriodDpss": {
+    "startedAt": "2019/07/14 09:00",
+    "endedAt": "2019/07/14 16:00"
+  },
+  "candidateApplicationPeriod": {
+    "startedAt": "2019/05/28 09:00",
+    "endedAt": "2019/06/10 17:00"
+  },
+  "complaintsHandlingPeriod": {
+    "startedAt": "2019/01/01 00:00",
+    "endedAt": "2019/01/01 23:59"
+  },
+  "overallStatistics": {
+    "availableVotes": 0,
+    "submittedVotes": 0,
+    "voidedVotes": 0,
+    "voteSubmissionPercentage": 0,
+    "candidateApplications": {
+      "receivedApplications": 3,
+      "approvedApplications": 3
+    },
+    "receivedComplaints": {
+      "againstEac": 0,
+      "againstRo": 0,
+      "againstPolice": 0,
+      "againstIcac": 0,
+      "againstPros": 0
+    },
+    "accumulatedVotesByHour": [
+      {
+        "countedAt": "08:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "09:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "10:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "11:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "12:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "13:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "14:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "15:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "16:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "17:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "18:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "19:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "20:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "21:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "22:30",
+        "numberOfVotes": 0
+      }
+    ]
+  },
+  "constituencyStatistics": [
+    {
+      "nameZh": "新田選區",
+      "nameEn": "San Tin Constituency",
+      "districtNameZh": "元朗區議會",
+      "districtNameEn": "Yuen Long District Council",
+      "constituencyType": "district",
+      "constituencyCode": "?",
+      "availableVotes": 0,
+      "submittedVotes": 0,
+      "voidedVotes": 0,
+      "voteSubmissionPercentage": 0,
+      "accumulatedVotesByHour": [
+        {
+          "countedAt": "08:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "09:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "10:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "11:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "12:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "13:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "14:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "15:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "16:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "17:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "18:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "19:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "20:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "21:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "22:30",
+          "numberOfVotes": 0
+        }
+      ],
+      "candidates": [
+        {
+          "candidateNumber": 1,
+          "nameZh": "文家駒",
+          "nameEn": "MAN KA KOY",
+          "receivedVotes": 0,
+          "elected": false
+        },
+        {
+          "candidateNumber": 2,
+          "nameZh": "文嘉豪",
+          "nameEn": "MAN KA HO DONALD",
+          "receivedVotes": 0,
+          "elected": false
+        }
+      ]
+    },
+    {
+      "nameZh": "十八鄉西選區",
+      "nameEn": "Shap Pat Heung West Constituency",
+      "districtNameZh": "元朗區議會",
+      "districtNameEn": "Yuen Long District Council",
+      "constituencyType": "district",
+      "constituencyCode": "?",
+      "availableVotes": 0,
+      "submittedVotes": 0,
+      "voidedVotes": 0,
+      "voteSubmissionPercentage": 0,
+      "accumulatedVotesByHour": [],
+      "candidates": [
+        {
+          "candidateNumber": 1,
+          "nameZh": "梁福元",
+          "nameEn": "NG DICK HAY",
+          "receivedVotes": 0,
+          "elected": true
+        }
+      ]
+    }
+  ]
+}

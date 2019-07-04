@@ -183,12 +183,18 @@
         "nameEn": {
           "type": "string"
         },
+        "districtNameZh": {
+          "type": "string"
+        },
+        "districtNameEn": {
+          "type": "string"
+        },
         "constituencyCode": {
           "type": "string"
         },
         "constituencyType": {
           "type": "string",
-          "pattern": "geographical|functional"
+          "pattern": "geographical|functional|district"
         },
         "availableVotes": {
           "type": "number",
