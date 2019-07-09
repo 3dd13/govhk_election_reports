@@ -199,7 +199,8 @@
           "policticalAffiliationZh": "**"
 
         }
-      ]
+      ],
+      "otherNominations": []
     },
     {
       "nameZh": "十八鄉西選區",
@@ -227,7 +228,8 @@
           "policticalAffiliationEn": "**",
           "policticalAffiliationZh": "**"
         }
-      ]
+      ],
+      "otherNominations": []
     }
   ]
 }

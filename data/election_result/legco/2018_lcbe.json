@@ -220,6 +220,28 @@
           "policticalAffiliationEn": "New People's Party",
           "policticalAffiliationZh": "新民黨"
         }
+      ],
+      "otherNominations": [
+        {
+          "nameZh": "周庭",
+          "nameEn": "CHOW Ting",
+          "gender": "female",
+          "occupationEn": "Student",
+          "occupationZh": "學生",
+          "policticalAffiliationEn": "Demosisto",
+          "policticalAffiliationZh": "香港眾志",
+          "reasonOfNotValidlyNominated": "無效"
+        },
+        {
+          "nameZh": "馬金泉",
+          "nameEn": "MA Kam-chuen",
+          "gender": "male",
+          "occupationEn": "Retired Dental Surgeon",
+          "occupationZh": "退休牙科醫生",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**",
+          "reasonOfNotValidlyNominated": "無效"
+        }
       ]
     },
     {
@@ -330,6 +352,18 @@
           "occupationZh": "物理治療師",
           "policticalAffiliationEn": "**",
           "policticalAffiliationZh": "獨立"
+        }
+      ],
+      "otherNominations": [
+        {
+          "nameZh": "袁海文",
+          "nameEn": "YUEN Hoi-man",
+          "gender": "male",
+          "occupationEn": "District Councillor",
+          "occupationZh": "區議員",
+          "policticalAffiliationEn": "The Democratic Party",
+          "policticalAffiliationZh": "民主黨",
+          "reasonOfNotValidlyNominated": "退選"
         }
       ]
     },
@@ -478,6 +512,28 @@
           "policticalAffiliationEn": "Neo Democrats",
           "policticalAffiliationZh": "新民主同盟"
         }
+      ],
+      "otherNominations": [
+        {
+          "nameZh": "陳國強",
+          "nameEn": "CHAN Kwok-keung",
+          "gender": "male",
+          "occupationEn": "Director, District Councillor",
+          "occupationZh": "公司董事，區議員",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**",
+          "reasonOfNotValidlyNominated": "無效"
+        },
+        {
+          "nameZh": "劉頴匡",
+          "nameEn": "LAU Wing-hong",
+          "gender": "male",
+          "occupationEn": "District Work",
+          "occupationZh": "地區工作者",
+          "policticalAffiliationEn": "Independent Localist",
+          "policticalAffiliationZh": "獨立本土派",
+          "reasonOfNotValidlyNominated": "無效"
+        }
       ]
     },
     {
@@ -577,7 +633,8 @@
           "policticalAffiliationEn": "Independent Democrat",
           "policticalAffiliationZh": "獨立民主派"
         }
-      ]
+      ],
+      "otherNominations": []
     }
   ]
 }

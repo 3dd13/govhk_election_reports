@@ -1,0 +1,319 @@
+{
+  "nameZh": "2017年中西區區議會補選",
+  "nameEn": "2017 Central and Western District Council By-election",
+  "code": "2017_cwd",
+  "dataSource": "https://www.eac.hk/ch/distco/2017cwd_elect.htm",
+  "electionPeriod": {
+    "startedAt": "2017/11/26 07:30",
+    "endedAt": "2017/11/26 22:30"
+  },
+  "electionPeriodDpss": {
+    "startedAt": "2017/11/26 09:00",
+    "endedAt": "2017/11/26 16:00"
+  },
+  "candidateApplicationPeriod": {
+    "startedAt": "2017/10/03 09:00",
+    "endedAt": "2017/10/16 17:00"
+  },
+  "complaintsHandlingPeriod": {
+    "startedAt": "2017/10/03 00:00",
+    "endedAt": "2018/01/10 23:59"
+  },
+  "overallStatistics": {
+    "availableVotes": 10411,
+    "submittedVotes": 3753,
+    "voidedVotes": 0,
+    "voteSubmissionPercentage": 36.05,
+    "candidateApplications": {
+      "receivedApplications": 5,
+      "approvedApplications": 5
+    },
+    "receivedComplaints": {
+      "againstEac": 15,
+      "againstRo": 103,
+      "againstPolice": 28,
+      "againstIcac": 1,
+      "againstPros": 6
+    },
+    "accumulatedVotesByHour": [
+      {
+        "countedAt": "08:30",
+        "numberOfVotes": 90
+      },
+      {
+        "countedAt": "09:30",
+        "numberOfVotes": 264
+      },
+      {
+        "countedAt": "10:30",
+        "numberOfVotes": 484
+      },
+      {
+        "countedAt": "11:30",
+        "numberOfVotes": 799
+      },
+      {
+        "countedAt": "12:30",
+        "numberOfVotes": 1218
+      },
+      {
+        "countedAt": "13:30",
+        "numberOfVotes": 1362
+      },
+      {
+        "countedAt": "14:30",
+        "numberOfVotes": 1603
+      },
+      {
+        "countedAt": "15:30",
+        "numberOfVotes": 1885
+      },
+      {
+        "countedAt": "16:30",
+        "numberOfVotes": 2170
+      },
+      {
+        "countedAt": "17:30",
+        "numberOfVotes": 2438
+      },
+      {
+        "countedAt": "18:30",
+        "numberOfVotes": 2718
+      },
+      {
+        "countedAt": "19:30",
+        "numberOfVotes": 3029
+      },
+      {
+        "countedAt": "20:30",
+        "numberOfVotes": 3285
+      },
+      {
+        "countedAt": "21:30",
+        "numberOfVotes": 3525
+      },
+      {
+        "countedAt": "22:30",
+        "numberOfVotes": 3753
+      }
+    ]
+  },
+  "constituencyStatistics": [
+    {
+      "nameZh": "山頂選區",
+      "nameEn": "THE PEAK CONSTITUENCY",
+      "districtNameZh": "中西區區議會",
+      "districtNameEn": "CENTRAL AND WESTERN DISTRICT COUNCIL",
+      "constituencyType": "district",
+      "constituencyCode": "?",
+      "autoDulyElected": false,
+      "availableVotes": 5327,
+      "submittedVotes": 1780,
+      "voidedVotes": 6,
+      "voteSubmissionPercentage": 33.41,
+      "accumulatedVotesByHour": [
+        {
+          "countedAt": "08:30",
+          "numberOfVotes": 39
+        },
+        {
+          "countedAt": "09:30",
+          "numberOfVotes": 112
+        },
+        {
+          "countedAt": "10:30",
+          "numberOfVotes": 191
+        },
+        {
+          "countedAt": "11:30",
+          "numberOfVotes": 328
+        },
+        {
+          "countedAt": "12:30",
+          "numberOfVotes": 477
+        },
+        {
+          "countedAt": "13:30",
+          "numberOfVotes": 589
+        },
+        {
+          "countedAt": "14:30",
+          "numberOfVotes": 682
+        },
+        {
+          "countedAt": "15:30",
+          "numberOfVotes": 835
+        },
+        {
+          "countedAt": "16:30",
+          "numberOfVotes": 979
+        },
+        {
+          "countedAt": "17:30",
+          "numberOfVotes": 1114
+        },
+        {
+          "countedAt": "18:30",
+          "numberOfVotes": 1254
+        },
+        {
+          "countedAt": "19:30",
+          "numberOfVotes": 1413
+        },
+        {
+          "countedAt": "20:30",
+          "numberOfVotes": 1536
+        },
+        {
+          "countedAt": "21:30",
+          "numberOfVotes": 1664
+        },
+        {
+          "countedAt": "22:30",
+          "numberOfVotes": 1780
+        }
+      ],
+      "candidates": [
+        {
+          "candidateNumber": 1,
+          "nameZh": "楊哲安",
+          "nameEn": "YOUNG Chit-on Jeremy",
+          "receivedVotes": 1378,
+          "elected": true,
+          "gender": "male",
+          "occupationEn": "Company Director",
+          "occupationZh": "公司董事",
+          "policticalAffiliationEn": "Liberal Party",
+          "policticalAffiliationZh": "自由黨"
+        },
+        {
+          "candidateNumber": 2,
+          "nameZh": "錢志健",
+          "nameEn": "CHIN Chi-kin Edward",
+          "receivedVotes": 394,
+          "elected": false,
+          "gender": "male",
+          "occupationEn": "Executive Director, Alternative Investments",
+          "occupationZh": "執行董事, 另類投資組合",
+          "policticalAffiliationEn": "Independent Candidate",
+          "policticalAffiliationZh": "獨立候選人"
+        }
+      ],
+      "otherNominations": []
+    },
+    {
+      "nameZh": "東華選區",
+      "nameEn": "TUNG WAH CONSTITUENCY",
+      "districtNameZh": "中西區區議會",
+      "districtNameEn": "CENTRAL AND WESTERN DISTRICT COUNCIL",
+      "constituencyType": "district",
+      "constituencyCode": "?",
+      "autoDulyElected": false,
+      "availableVotes": 5084,
+      "submittedVotes": 1973,
+      "voidedVotes": 7,
+      "voteSubmissionPercentage": 38.81,
+      "accumulatedVotesByHour": [
+        {
+          "countedAt": "08:30",
+          "numberOfVotes": 51
+        },
+        {
+          "countedAt": "09:30",
+          "numberOfVotes": 152
+        },
+        {
+          "countedAt": "10:30",
+          "numberOfVotes": 293
+        },
+        {
+          "countedAt": "11:30",
+          "numberOfVotes": 471
+        },
+        {
+          "countedAt": "12:30",
+          "numberOfVotes": 629
+        },
+        {
+          "countedAt": "13:30",
+          "numberOfVotes": 773
+        },
+        {
+          "countedAt": "14:30",
+          "numberOfVotes": 921
+        },
+        {
+          "countedAt": "15:30",
+          "numberOfVotes": 1050
+        },
+        {
+          "countedAt": "16:30",
+          "numberOfVotes": 1191
+        },
+        {
+          "countedAt": "17:30",
+          "numberOfVotes": 1324
+        },
+        {
+          "countedAt": "18:30",
+          "numberOfVotes": 1464
+        },
+        {
+          "countedAt": "19:30",
+          "numberOfVotes": 1616
+        },
+        {
+          "countedAt": "20:30",
+          "numberOfVotes": 1749
+        },
+        {
+          "countedAt": "21:30",
+          "numberOfVotes": 1861
+        },
+        {
+          "countedAt": "22:30",
+          "numberOfVotes": 1973
+        }
+      ],
+      "candidates": [
+        {
+          "candidateNumber": 1,
+          "nameZh": "呂錦强",
+          "nameEn": "LUI Kam-keung",
+          "receivedVotes": 909,
+          "elected": false,
+          "gender": "male",
+          "occupationEn": "Principal",
+          "occupationZh": "小學校長",
+          "policticalAffiliationEn": "Independent Candidate",
+          "policticalAffiliationZh": "獨立候選人"
+        },
+        {
+          "candidateNumber": 2,
+          "nameZh": "伍凱欣",
+          "nameEn": "NG Hoi-yan Bonnie",
+          "receivedVotes": 1034,
+          "elected": true,
+          "gender": "female",
+          "occupationEn": "Senior Community Development Officer",
+          "occupationZh": "高級社區發展主任",
+          "policticalAffiliationEn": "The Democratic Party",
+          "policticalAffiliationZh": "民主黨"
+        },
+        {
+          "candidateNumber": 3,
+          "nameZh": "劉舒燕",
+          "nameEn": "LAU Shu-yin Olivia",
+          "receivedVotes": 20,
+          "elected": false,
+          "gender": "female",
+          "occupationEn": "Administrative Officer",
+          "occupationZh": "行政主任",
+          "policticalAffiliationEn": "Independent Candidate",
+          "policticalAffiliationZh": "獨立候選人"
+        }
+      ],
+      "otherNominations": []
+    }
+  ]
+}

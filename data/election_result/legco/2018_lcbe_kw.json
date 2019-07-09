@@ -232,6 +232,18 @@
           "policticalAffiliationEn": "**",
           "policticalAffiliationZh": "**"
         }
+      ],
+      "otherNominations": [
+        {
+          "nameZh": "劉小麗",
+          "nameEn": "LAU Siu-lai",
+          "gender": "female",
+          "occupationEn": "Lecturer",
+          "occupationZh": "大專講師",
+          "policticalAffiliationEn": "Democracy Groundwork, Labour Party",
+          "policticalAffiliationZh": "小麗民主教室，工黨",
+          "reasonOfNotValidlyNominated": "無效"
+        }
       ]
     }
   ]

@@ -30,7 +30,7 @@
     },
     "receivedComplaints": {
       "againstEac": 29,
-      "againstRo":44,
+      "againstRo": 44,
       "againstPolice": 34,
       "againstIcac": 1,
       "againstPros": 3
@@ -210,7 +210,8 @@
           "policticalAffiliationEn": "Democratic Alliance for the Betterment and Progress of Hong Kong, The Hong Kong Federation of Trade Unions",
           "policticalAffiliationZh": "民主建港協進聯盟，香港工會聯合會"
         }
-      ]
+      ],
+      "otherNominations": []
     }
   ]
 }
