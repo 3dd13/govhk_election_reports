@@ -1,0 +1,216 @@
+{
+  "nameZh": "2018年東區區議會佳曉選區補選",
+  "nameEn": "2018 Eastern District Council Kai Hiu Constituency By-election",
+  "code": "2018_ed_kh",
+  "dataSource": "https://www.eac.hk/ch/distco/2018ed_kh_elect.htm",
+  "electionPeriod": {
+    "startedAt": "2018/06/10 07:30",
+    "endedAt": "2018/06/10 22:30"
+  },
+  "electionPeriodDpss": {
+    "startedAt": "2018/06/10 09:00",
+    "endedAt": "2018/06/10 16:00"
+  },
+  "candidateApplicationPeriod": {
+    "startedAt": "2018/04/17 09:00",
+    "endedAt": "2018/04/30 17:00"
+  },
+  "complaintsHandlingPeriod": {
+    "startedAt": "2018/04/17 00:00",
+    "endedAt": "2018/07/25 23:59"
+  },
+  "overallStatistics": {
+    "availableVotes": 8728,
+    "submittedVotes": 4307,
+    "voidedVotes": 29,
+    "voteSubmissionPercentage": 49.35,
+    "candidateApplications": {
+      "receivedApplications": 3,
+      "approvedApplications": 3
+    },
+    "receivedComplaints": {
+      "againstEac": 29,
+      "againstRo":44,
+      "againstPolice": 34,
+      "againstIcac": 1,
+      "againstPros": 3
+    },
+    "accumulatedVotesByHour": [
+      {
+        "countedAt": "08:30",
+        "numberOfVotes": 131
+      },
+      {
+        "countedAt": "09:30",
+        "numberOfVotes": 408
+      },
+      {
+        "countedAt": "10:30",
+        "numberOfVotes": 738
+      },
+      {
+        "countedAt": "11:30",
+        "numberOfVotes": 1094
+      },
+      {
+        "countedAt": "12:30",
+        "numberOfVotes": 1456
+      },
+      {
+        "countedAt": "13:30",
+        "numberOfVotes": 1778
+      },
+      {
+        "countedAt": "14:30",
+        "numberOfVotes": 2029
+      },
+      {
+        "countedAt": "15:30",
+        "numberOfVotes": 2314
+      },
+      {
+        "countedAt": "16:30",
+        "numberOfVotes": 2639
+      },
+      {
+        "countedAt": "17:30",
+        "numberOfVotes": 2906
+      },
+      {
+        "countedAt": "18:30",
+        "numberOfVotes": 3201
+      },
+      {
+        "countedAt": "19:30",
+        "numberOfVotes": 3500
+      },
+      {
+        "countedAt": "20:30",
+        "numberOfVotes": 3787
+      },
+      {
+        "countedAt": "21:30",
+        "numberOfVotes": 4050
+      },
+      {
+        "countedAt": "22:30",
+        "numberOfVotes": 4307
+      }
+    ]
+  },
+  "constituencyStatistics": [
+    {
+      "nameZh": "佳曉選區",
+      "nameEn": "Kai Hiu Constituency",
+      "districtNameZh": "東區區議會",
+      "districtNameEn": "Eastern District Council",
+      "constituencyType": "district",
+      "constituencyCode": "?",
+      "autoDulyElected": false,
+      "availableVotes": 8728,
+      "submittedVotes": 4307,
+      "voidedVotes": 29,
+      "voteSubmissionPercentage": 49.35,
+      "accumulatedVotesByHour": [
+        {
+          "countedAt": "08:30",
+          "numberOfVotes": 131
+        },
+        {
+          "countedAt": "09:30",
+          "numberOfVotes": 408
+        },
+        {
+          "countedAt": "10:30",
+          "numberOfVotes": 738
+        },
+        {
+          "countedAt": "11:30",
+          "numberOfVotes": 1094
+        },
+        {
+          "countedAt": "12:30",
+          "numberOfVotes": 1456
+        },
+        {
+          "countedAt": "13:30",
+          "numberOfVotes": 1778
+        },
+        {
+          "countedAt": "14:30",
+          "numberOfVotes": 2029
+        },
+        {
+          "countedAt": "15:30",
+          "numberOfVotes": 2314
+        },
+        {
+          "countedAt": "16:30",
+          "numberOfVotes": 2639
+        },
+        {
+          "countedAt": "17:30",
+          "numberOfVotes": 2906
+        },
+        {
+          "countedAt": "18:30",
+          "numberOfVotes": 3201
+        },
+        {
+          "countedAt": "19:30",
+          "numberOfVotes": 3500
+        },
+        {
+          "countedAt": "20:30",
+          "numberOfVotes": 3787
+        },
+        {
+          "countedAt": "21:30",
+          "numberOfVotes": 4050
+        },
+        {
+          "countedAt": "22:30",
+          "numberOfVotes": 4307
+        }
+      ],
+      "candidates": [
+        {
+          "candidateNumber": 1,
+          "nameZh": "陳真真",
+          "nameEn": "TAN Chun-chun Enki",
+          "receivedVotes": 707,
+          "elected": false,
+          "gender": "female",
+          "occupationEn": "**",
+          "occupationZh": "前林翠蓮議員助理",
+          "policticalAffiliationEn": "Independent",
+          "policticalAffiliationZh": "獨立民生派"
+        },
+        {
+          "candidateNumber": 2,
+          "nameZh": "李鳳琼",
+          "nameEn": "ISHIGAMI LEE Fung-king Alice",
+          "receivedVotes": 1302,
+          "elected": false,
+          "gender": "female",
+          "occupationEn": "**",
+          "occupationZh": "**",
+          "policticalAffiliationEn": "Democrats",
+          "policticalAffiliationZh": "民主派"
+        },
+        {
+          "candidateNumber": 3,
+          "nameZh": "植潔鈴",
+          "nameEn": "CHIK Kit-ling Elaine",
+          "receivedVotes": 2268,
+          "elected": true,
+          "gender": "female",
+          "occupationEn": "**",
+          "occupationZh": "議員助理",
+          "policticalAffiliationEn": "Democratic Alliance for the Betterment and Progress of Hong Kong, The Hong Kong Federation of Trade Unions",
+          "policticalAffiliationZh": "民主建港協進聯盟，香港工會聯合會"
+        }
+      ]
+    }
+  ]
+}
