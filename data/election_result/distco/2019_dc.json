@@ -1,0 +1,102 @@
+{
+  "nameZh": "2019年區議會一般選舉",
+  "nameEn": "2019 District Council Ordinary Election",
+  "code": "2019_dc",
+  "dataSource": "https://www.eac.hk/ch/distco/2019dc_elect.htm",
+  "electionPeriod": {
+    "startedAt": "2019/11/24 07:30",
+    "endedAt": "2019/11/24 22:30"
+  },
+  "electionPeriodDpss": {
+    "startedAt": "2019/11/24 09:00",
+    "endedAt": "2019/11/24 16:00"
+  },
+  "candidateApplicationPeriod": {
+    "startedAt": "2019/01/01 09:00",
+    "endedAt": "2019/01/01 17:00"
+  },
+  "complaintsHandlingPeriod": {
+    "startedAt": "2019/01/01 00:00",
+    "endedAt": "2019/01/01 23:59"
+  },
+  "overallStatistics": {
+    "availableVotes": 0,
+    "submittedVotes": 0,
+    "voidedVotes": 0,
+    "voteSubmissionPercentage": 0,
+    "candidateApplications": {
+      "receivedApplications": 0,
+      "approvedApplications": 0
+    },
+    "receivedComplaints": {
+      "againstEac": 0,
+      "againstRo": 0,
+      "againstPolice": 0,
+      "againstIcac": 0,
+      "againstPros": 0
+    },
+    "accumulatedVotesByHour": [
+      {
+        "countedAt": "08:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "09:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "10:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "11:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "12:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "13:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "14:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "15:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "16:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "17:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "18:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "19:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "20:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "21:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "22:30",
+        "numberOfVotes": 0
+      }
+    ]
+  },
+  "constituencyStatistics": []
+}
