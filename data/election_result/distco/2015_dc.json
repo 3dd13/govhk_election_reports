@@ -1,0 +1,319 @@
+{
+  "nameZh": "2015年區議會一般選舉",
+  "nameEn": "2015 District Council Ordinary Election",
+  "code": "2015_dc",
+  "dataSource": "https://www.eac.hk/ch/distco/2015dc_elect.htm",
+  "electionPeriod": {
+    "startedAt": "2015/11/22 07:30",
+    "endedAt": "2015/11/22 22:30"
+  },
+  "electionPeriodDpss": {
+    "startedAt": "2015/11/22 09:00",
+    "endedAt": "2015/11/22 16:00"
+  },
+  "candidateApplicationPeriod": {
+    "startedAt": "2015/01/01 09:00",
+    "endedAt": "2015/01/01 17:00"
+  },
+  "complaintsHandlingPeriod": {
+    "startedAt": "2015/01/01 00:00",
+    "endedAt": "2015/01/01 23:59"
+  },
+  "overallStatistics": {
+    "availableVotes": 0,
+    "submittedVotes": 0,
+    "voidedVotes": 0,
+    "voteSubmissionPercentage": 0,
+    "candidateApplications": {
+      "receivedApplications": 0,
+      "approvedApplications": 0
+    },
+    "receivedComplaints": {
+      "againstEac": 0,
+      "againstRo": 0,
+      "againstPolice": 0,
+      "againstIcac": 0,
+      "againstPros": 0
+    },
+    "accumulatedVotesByHour": [
+      {
+        "countedAt": "08:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "09:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "10:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "11:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "12:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "13:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "14:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "15:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "16:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "17:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "18:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "19:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "20:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "21:30",
+        "numberOfVotes": 0
+      },
+      {
+        "countedAt": "22:30",
+        "numberOfVotes": 0
+      }
+    ]
+  },
+  "constituencyStatistics": [
+    {
+      "nameZh": "長洲南選區",
+      "nameEn": "Cheung Chau South Constituency",
+      "districtNameZh": "離島區區議會",
+      "districtNameEn": "Islands District Council",
+      "constituencyType": "district",
+      "constituencyCode": "T09",
+      "autoDulyElected": false,
+      "availableVotes": 0,
+      "submittedVotes": 0,
+      "voidedVotes": 0,
+      "voteSubmissionPercentage": 0,
+      "accumulatedVotesByHour": [
+        {
+          "countedAt": "08:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "09:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "10:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "11:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "12:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "13:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "14:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "15:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "16:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "17:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "18:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "19:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "20:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "21:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "22:30",
+          "numberOfVotes": 0
+        }
+      ],
+      "candidates": [
+        {
+          "candidateNumber": 1,
+          "nameZh": "鄺官穩",
+          "nameEn": "KWONG Koon-wan",
+          "receivedVotes": 0,
+          "elected": false,
+          "gender": "male",
+          "occupationEn": "Director",
+          "occupationZh": "公司董事",
+          "policticalAffiliationEn": "BPA",
+          "policticalAffiliationZh": "經民聯"
+        },
+        {
+          "candidateNumber": 2,
+          "nameZh": "梁國豪",
+          "nameEn": "LEUNG Kwok-ho",
+          "receivedVotes": 0,
+          "elected": false,
+          "gender": "male",
+          "occupationEn": "**",
+          "occupationZh": "**",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
+        },
+        {
+          "candidateNumber": 3,
+          "nameZh": "林潔聲",
+          "nameEn": "LAM Kit-sing",
+          "receivedVotes": 0,
+          "elected": false,
+          "gender": "male",
+          "occupationEn": "Director",
+          "occupationZh": "公司董事",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
+        }
+      ],
+      "otherNominations": []
+    },
+    {
+      "nameZh": "長洲北選區",
+      "nameEn": "Cheung Chau North Constituency",
+      "districtNameZh": "離島區區議會",
+      "districtNameEn": "Islands District Council",
+      "constituencyType": "district",
+      "constituencyCode": "T10",
+      "autoDulyElected": false,
+      "availableVotes": 0,
+      "submittedVotes": 0,
+      "voidedVotes": 0,
+      "voteSubmissionPercentage": 0,
+      "accumulatedVotesByHour": [
+        {
+          "countedAt": "08:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "09:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "10:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "11:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "12:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "13:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "14:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "15:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "16:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "17:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "18:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "19:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "20:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "21:30",
+          "numberOfVotes": 0
+        },
+        {
+          "countedAt": "22:30",
+          "numberOfVotes": 0
+        }
+      ],
+      "candidates": [
+        {
+          "candidateNumber": 1,
+          "nameZh": "李桂珍",
+          "nameEn": "LEE Kwai-chun",
+          "receivedVotes": 0,
+          "elected": false,
+          "gender": "female",
+          "occupationEn": "**",
+          "occupationZh": "**",
+          "policticalAffiliationEn": "DAB",
+          "policticalAffiliationZh": "民建聯"
+        },
+        {
+          "candidateNumber": 2,
+          "nameZh": "鄺惠娟",
+          "nameEn": "KWONG Wai-kuen",
+          "receivedVotes": 0,
+          "elected": false,
+          "gender": "female",
+          "occupationEn": "**",
+          "occupationZh": "**",
+          "policticalAffiliationEn": "**",
+          "policticalAffiliationZh": "**"
+        }
+      ],
+      "otherNominations": []
+    }
+  ]
+}
