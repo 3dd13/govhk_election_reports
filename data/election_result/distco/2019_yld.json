@@ -100,8 +100,8 @@
   },
   "constituencyStatistics": [
     {
-      "nameZh": "新田選區",
-      "nameEn": "San Tin Constituency",
+      "nameZh": "新田",
+      "nameEn": "San Tin",
       "districtNameZh": "元朗區議會",
       "districtNameEn": "Yuen Long District Council",
       "constituencyType": "district",
@@ -203,8 +203,8 @@
       "otherNominations": []
     },
     {
-      "nameZh": "十八鄉西選區",
-      "nameEn": "Shap Pat Heung West Constituency",
+      "nameZh": "十八鄉西",
+      "nameEn": "Shap Pat Heung West",
       "districtNameZh": "元朗區議會",
       "districtNameEn": "Yuen Long District Council",
       "constituencyType": "district",

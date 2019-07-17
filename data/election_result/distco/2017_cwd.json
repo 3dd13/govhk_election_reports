@@ -100,10 +100,10 @@
   },
   "constituencyStatistics": [
     {
-      "nameZh": "山頂選區",
-      "nameEn": "THE PEAK CONSTITUENCY",
+      "nameZh": "山頂",
+      "nameEn": "The Paek",
       "districtNameZh": "中西區區議會",
-      "districtNameEn": "CENTRAL AND WESTERN DISTRICT COUNCIL",
+      "districtNameEn": "Central and Western District Council",
       "constituencyType": "district",
       "constituencyCode": "A04",
       "autoDulyElected": false,
@@ -202,10 +202,10 @@
       "otherNominations": []
     },
     {
-      "nameZh": "東華選區",
-      "nameEn": "TUNG WAH CONSTITUENCY",
+      "nameZh": "東華",
+      "nameEn": "Tung Wah",
       "districtNameZh": "中西區區議會",
-      "districtNameEn": "CENTRAL AND WESTERN DISTRICT COUNCIL",
+      "districtNameEn": "Central and Western District Council",
       "constituencyType": "district",
       "constituencyCode": "A13",
       "autoDulyElected": false,
