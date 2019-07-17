@@ -38,63 +38,63 @@
     "accumulatedVotesByHour": [
       {
         "countedAt": "08:30",
-        "numberOfVotes": 0
+        "numberOfVotes": 52
       },
       {
         "countedAt": "09:30",
-        "numberOfVotes": 0
+        "numberOfVotes": 143
       },
       {
         "countedAt": "10:30",
-        "numberOfVotes": 0
+        "numberOfVotes": 307
       },
       {
         "countedAt": "11:30",
-        "numberOfVotes": 0
+        "numberOfVotes": 507
       },
       {
         "countedAt": "12:30",
-        "numberOfVotes": 0
+        "numberOfVotes": 680
       },
       {
         "countedAt": "13:30",
-        "numberOfVotes": 0
+        "numberOfVotes": 835
       },
       {
         "countedAt": "14:30",
-        "numberOfVotes": 0
+        "numberOfVotes": 947
       },
       {
         "countedAt": "15:30",
-        "numberOfVotes": 0
+        "numberOfVotes": 1068
       },
       {
         "countedAt": "16:30",
-        "numberOfVotes": 0
+        "numberOfVotes": 1195
       },
       {
         "countedAt": "17:30",
-        "numberOfVotes": 0
+        "numberOfVotes": 1327
       },
       {
         "countedAt": "18:30",
-        "numberOfVotes": 0
+        "numberOfVotes": 1448
       },
       {
         "countedAt": "19:30",
-        "numberOfVotes": 0
+        "numberOfVotes": 1571
       },
       {
         "countedAt": "20:30",
-        "numberOfVotes": 0
+        "numberOfVotes": 1697
       },
       {
         "countedAt": "21:30",
-        "numberOfVotes": 0
+        "numberOfVotes": 1809
       },
       {
         "countedAt": "22:30",
-        "numberOfVotes": 0
+        "numberOfVotes": 1945
       }
     ]
   },
@@ -107,70 +107,70 @@
       "constituencyType": "district",
       "constituencyCode": "M32",
       "autoDulyElected": false,
-      "availableVotes": 0,
-      "submittedVotes": 0,
+      "availableVotes": 9208,
+      "submittedVotes": 1945,
       "voidedVotes": 0,
-      "voteSubmissionPercentage": 0,
+      "voteSubmissionPercentage": 21.12,
       "accumulatedVotesByHour": [
         {
           "countedAt": "08:30",
-          "numberOfVotes": 0
+          "numberOfVotes": 52
         },
         {
           "countedAt": "09:30",
-          "numberOfVotes": 0
+          "numberOfVotes": 143
         },
         {
           "countedAt": "10:30",
-          "numberOfVotes": 0
+          "numberOfVotes": 307
         },
         {
           "countedAt": "11:30",
-          "numberOfVotes": 0
+          "numberOfVotes": 507
         },
         {
           "countedAt": "12:30",
-          "numberOfVotes": 0
+          "numberOfVotes": 680
         },
         {
           "countedAt": "13:30",
-          "numberOfVotes": 0
+          "numberOfVotes": 835
         },
         {
           "countedAt": "14:30",
-          "numberOfVotes": 0
+          "numberOfVotes": 947
         },
         {
           "countedAt": "15:30",
-          "numberOfVotes": 0
+          "numberOfVotes": 1068
         },
         {
           "countedAt": "16:30",
-          "numberOfVotes": 0
+          "numberOfVotes": 1195
         },
         {
           "countedAt": "17:30",
-          "numberOfVotes": 0
+          "numberOfVotes": 1327
         },
         {
           "countedAt": "18:30",
-          "numberOfVotes": 0
+          "numberOfVotes": 1448
         },
         {
           "countedAt": "19:30",
-          "numberOfVotes": 0
+          "numberOfVotes": 1571
         },
         {
           "countedAt": "20:30",
-          "numberOfVotes": 0
+          "numberOfVotes": 1697
         },
         {
           "countedAt": "21:30",
-          "numberOfVotes": 0
+          "numberOfVotes": 1809
         },
         {
           "countedAt": "22:30",
-          "numberOfVotes": 0
+          "numberOfVotes": 1945
         }
       ],
       "candidates": [
@@ -178,7 +178,7 @@
           "candidateNumber": 1,
           "nameZh": "文家駒",
           "nameEn": "MAN KA KOY",
-          "receivedVotes": 0,
+          "receivedVotes": 1340,
           "elected": false,
           "gender": "male",
           "occupationEn": "Registered Foreign Lawyer",
@@ -190,7 +190,7 @@
           "candidateNumber": 2,
           "nameZh": "文嘉豪",
           "nameEn": "MAN KA HO DONALD",
-          "receivedVotes": 0,
+          "receivedVotes": 565,
           "elected": false,
           "gender": "male",
           "occupationEn": "Rope Skipping Coach",
