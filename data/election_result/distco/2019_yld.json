@@ -20,10 +20,10 @@
     "endedAt": "2019/01/01 23:59"
   },
   "overallStatistics": {
-    "availableVotes": 0,
-    "submittedVotes": 0,
+    "availableVotes": 9208,
+    "submittedVotes": 1945,
     "voidedVotes": 0,
-    "voteSubmissionPercentage": 0,
+    "voteSubmissionPercentage": 21.12,
     "candidateApplications": {
       "receivedApplications": 3,
       "approvedApplications": 3
