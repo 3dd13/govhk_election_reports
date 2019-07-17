@@ -179,7 +179,7 @@
           "nameZh": "文家駒",
           "nameEn": "MAN KA KOY",
           "receivedVotes": 1340,
-          "elected": false,
+          "elected": true,
           "gender": "male",
           "occupationEn": "Registered Foreign Lawyer",
           "occupationZh": "註冊海外律師",
