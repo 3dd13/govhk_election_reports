@@ -106,7 +106,7 @@
       "districtNameEn": "Eastern District Council",
       "constituencyType": "district",
       "constituencyCode": "C35",
-      "autoDulyElected": false,
+      "uncontestedConstituency": false,
       "availableVotes": 8728,
       "submittedVotes": 4307,
       "voidedVotes": 29,

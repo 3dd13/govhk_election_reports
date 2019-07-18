@@ -104,7 +104,7 @@
       "nameEn": "Kowloon West",
       "constituencyType": "geographical",
       "constituencyCode": "LC2",
-      "autoDulyElected": false,
+      "uncontestedConstituency": false,
       "availableVotes": 487160,
       "submittedVotes": 216522,
       "voidedVotes": 1550,

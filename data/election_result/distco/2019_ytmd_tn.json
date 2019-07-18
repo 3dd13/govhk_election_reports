@@ -106,7 +106,7 @@
       "districtNameEn": "Yau Tsim Mong District Council",
       "constituencyType": "district",
       "constituencyCode": "E12",
-      "autoDulyElected": false,
+      "uncontestedConstituency": false,
       "availableVotes": 7257,
       "submittedVotes": 2495,
       "voidedVotes": 0,
