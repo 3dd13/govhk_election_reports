@@ -20,13 +20,13 @@
     "endedAt": "2016/01/06 23:59"
   },
   "overallStatistics": {
-    "availableVotes": 0,
-    "submittedVotes": 0,
-    "voidedVotes": 0,
-    "voteSubmissionPercentage": 0,
+    "availableVotes": 3121238,
+    "submittedVotes": 1467229,
+    "voidedVotes": 21472,
+    "voteSubmissionPercentage": 47.01,
     "candidateApplications": {
-      "receivedApplications": 0,
-      "approvedApplications": 0
+      "receivedApplications": 951,
+      "approvedApplications": 935
     },
     "receivedComplaints": {
       "againstEac": 1557,
