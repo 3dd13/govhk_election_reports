@@ -1,0 +1,264 @@
+{
+  "definitions": {
+    "OverallCounts": {
+      "type": "object",
+      "title": "Overall Counts",
+      "required": [
+        "total",
+        "legcoFunctionalOnly",
+        "maleOnly",
+        "femaleOnly"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "total": {
+          "type": "number",
+          "title": "Total Number of Voters",
+          "default": 0
+        },
+        "legcoFunctionalOnly": {
+          "type": "number",
+          "title": "Number of Legco Functional Voters",
+          "default": 0
+        },
+        "maleOnly": {
+          "type": "number",
+          "title": "Number of Male Voters",
+          "default": 0
+        },
+        "femaleOnly": {
+          "type": "number",
+          "title": "Number of Female Voters",
+          "default": 0
+        }
+      }
+    },
+    "LegcoGeographicStatistics": {
+      "type": "object",
+      "title": "Legco Geographic Statistics",
+      "required": [
+        "nameEn",
+        "nameZh",
+        "count",
+        "byGenderAndAgeRange"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "nameEn": {
+          "type": "string",
+          "title": "Name (English)"
+        },
+        "nameZh": {
+          "type": "string",
+          "title": "Name (Chinese)"
+        },
+        "count": {
+          "type": "number",
+          "title": "Number of Voters in this Geograhpic",
+          "default": 0
+        },
+        "byGenderAndAgeRange": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/GenderAndAgeRangeStatistics"
+          }
+        }
+      }
+    },
+    "GenderAndAgeRangeStatistics": {
+      "type": "object",
+      "title": "Genger And Age Range Statistics",
+      "required": [
+        "gender",
+        "count",
+        "byAgeRange"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "gender": {
+          "type": "string",
+          "title": "Gender"
+        },
+        "count": {
+          "type": "number",
+          "title": "Number of Voters in this Gender And Any Age Range",
+          "default": 0
+        },
+        "byAgeRange": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/AgeRangeStatistics"
+          }
+        }
+      }
+    },
+    "AgeRangeStatistics": {
+      "type": "object",
+      "title": "Age Range Statistics",
+      "required": [
+        "ageRange",
+        "count"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "ageRange": {
+          "type": "string",
+          "title": "Age Range"
+        },
+        "count": {
+          "type": "number",
+          "title": "Number of Voters in this Age Range",
+          "default": 0
+        }
+      }
+    },
+    "LegcoFunctionalStatistics": {
+      "type": "object",
+      "title": "Overall Counts",
+      "required": [
+        "nameEn",
+        "nameZh",
+        "groupCount",
+        "individualCount"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "nameEn": {
+          "type": "string",
+          "title": "Name (English)"
+        },
+        "nameZh": {
+          "type": "string",
+          "title": "Name (Chinese)"
+        },
+        "groupCount": {
+          "type": "number",
+          "title": "Number of Group Voters",
+          "default": 0
+        },
+        "individualCount": {
+          "type": "number",
+          "title": "Number of Individual Voters",
+          "default": 0
+        }
+      }
+    },
+    "DistcoDistrictStatistics": {
+      "type": "object",
+      "title": "Distco District Statistics",
+      "required": [
+        "nameEn",
+        "nameZh",
+        "count",
+        "byConstituency"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "nameEn": {
+          "type": "string",
+          "title": "Name (English)"
+        },
+        "nameZh": {
+          "type": "string",
+          "title": "Name (Chinese)"
+        },
+        "count": {
+          "type": "number",
+          "title": "Number of Voters in this District",
+          "default": 0
+        },
+        "byConstituency": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/ConstituencyStatistics"
+          }
+        }
+      }
+    },
+    "ConstituencyStatistics": {
+      "type": "object",
+      "title": "Legco Geographic Statistics",
+      "required": [
+        "nameEn",
+        "nameZh",
+        "constituencyCode",
+        "count",
+        "byGenderAndAgeRange"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "nameEn": {
+          "type": "string",
+          "title": "Name (English)"
+        },
+        "nameZh": {
+          "type": "string",
+          "title": "Name (Chinese)"
+        },
+        "constituencyCode": {
+          "type": "string",
+          "title": "Constituency Code"
+        },
+        "count": {
+          "type": "number",
+          "title": "Number of Voters in this Geograhpic",
+          "default": 0
+        },
+        "byGenderAndAgeRange": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/GenderAndAgeRangeStatistics"
+          }
+        }
+      }
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "/VoterRegistration",
+  "type": "object",
+  "title": "Voter Registration Schema",
+  "required": [
+    "updatedAt",
+    "dataSource",
+    "overall",
+    "byLegcoGeographic",
+    "byLegcoFunctional",
+    "byDistcoDistrict"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "updatedAt": {
+      "type": "string",
+      "title": "Data Source Updated At"
+    },
+    "dataSource": {
+      "type": "string",
+      "title": "Data Source URL"
+    },
+    "overall": {
+      "title": "Overall Counts",
+      "$ref": "#/definitions/OverallCounts"
+    },
+    "byLegcoGeographic": {
+      "type": "array",
+      "title": "Statistics Grouped by Legco Geographic Array",
+      "items": {
+        "$ref": "#/definitions/LegcoGeographicStatistics"
+      }
+    },
+    "byLegcoFunctional": {
+      "type": "array",
+      "title": "Statistics Grouped by Legco Functional Array",
+      "items": {
+        "$ref": "#/definitions/LegcoFunctionalStatistics"
+      }
+    },
+    "byDistcoDistrict": {
+      "type": "array",
+      "title": "Statistics Grouped by Distco District Array",
+      "items": {
+        "$ref": "#/definitions/DistcoDistrictStatistics"
+      }
+    }
+  }
+}
