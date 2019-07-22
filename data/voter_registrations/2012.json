@@ -1,0 +1,16 @@
+{
+  "updatedAt": "2012/10/24",
+  "dataSource": "https://www.voterregistration.gov.hk/chi/statistic20121.html",
+  "overall": {
+    "total": 3466201,
+    "legcoFunctionalOnly": 240735,
+    "maleOnly": 1720920,
+    "femaleOnly": 1745281
+  },
+  "byLegcoGeographic": [
+  ],
+  "byLegcoFunctional": [
+  ],
+  "byDistcoDistrict": [
+  ]
+}

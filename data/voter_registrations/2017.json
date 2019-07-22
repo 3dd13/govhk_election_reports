@@ -1,0 +1,184 @@
+{
+  "updatedAt": "2017/07/25",
+  "dataSource": "https://www.voterregistration.gov.hk/chi/statistic20171.html",
+  "overall": {
+    "total": 3805069,
+    "legcoFunctionalOnly": 236859,
+    "maleOnly": 1861648,
+    "femaleOnly": 1943421
+  },
+  "byLegcoGeographic": [
+  ],
+  "byLegcoFunctional": [
+    {
+      "nameEn": "Heung Yee Kuk",
+      "nameZh": "鄉議局",
+      "groupCount": 0,
+      "individualCount": 151
+    },
+    {
+      "nameEn": "Agriculture and Fisheries",
+      "nameZh": "漁農界",
+      "groupCount": 154,
+      "individualCount": 0
+    },
+    {
+      "nameEn": "Insurance",
+      "nameZh": "保險界",
+      "groupCount": 128,
+      "individualCount": 0
+    },
+    {
+      "nameEn": "Transport",
+      "nameZh": "航運交通界",
+      "groupCount": 193,
+      "individualCount": 0
+    },
+    {
+      "nameEn": "Education",
+      "nameZh": "教育界",
+      "groupCount": 0,
+      "individualCount": 86954
+    },
+    {
+      "nameEn": "Legal",
+      "nameZh": "法律界",
+      "groupCount": 0,
+      "individualCount": 6775
+    },
+    {
+      "nameEn": "Accountancy",
+      "nameZh": "會計界",
+      "groupCount": 0,
+      "individualCount": 25933
+    },
+    {
+      "nameEn": "Medical",
+      "nameZh": "醫學界",
+      "groupCount": 0,
+      "individualCount": 11315
+    },
+    {
+      "nameEn": "Health Services",
+      "nameZh": "衞生服務界",
+      "groupCount": 0,
+      "individualCount": 37211
+    },
+    {
+      "nameEn": "Engineering",
+      "nameZh": "工程界",
+      "groupCount": 0,
+      "individualCount": 9488
+    },
+    {
+      "nameEn": "Architectural, Surveying, Planning and Landscape",
+      "nameZh": "建築、測量、都市規劃及園境界",
+      "groupCount": 0,
+      "individualCount": 7619
+    },
+    {
+      "nameEn": "Labour",
+      "nameZh": "勞工界",
+      "groupCount": 671,
+      "individualCount": 0
+    },
+    {
+      "nameEn": "Social Welfare",
+      "nameZh": "社會福利界",
+      "groupCount": 0,
+      "individualCount": 13914
+    },
+    {
+      "nameEn": "Real Estate and Construction",
+      "nameZh": "地產及建造界",
+      "groupCount": 480,
+      "individualCount": 210
+    },
+    {
+      "nameEn": "Tourism",
+      "nameZh": "旅遊界",
+      "groupCount": 1386,
+      "individualCount": 0
+    },
+    {
+      "nameEn": "Commercial (First)",
+      "nameZh": "商界 [第一]",
+      "groupCount": 1008,
+      "individualCount": 0
+    },
+    {
+      "nameEn": "Commercial (Second)",
+      "nameZh": "商界 [第二]",
+      "groupCount": 611,
+      "individualCount": 823
+    },
+    {
+      "nameEn": "Industrial (First)",
+      "nameZh": "工業界 [第一]",
+      "groupCount": 512,
+      "individualCount": 0
+    },
+    {
+      "nameEn": "Industrial (Second)",
+      "nameZh": "工業界 [第二]",
+      "groupCount": 771,
+      "individualCount": 0
+    },
+    {
+      "nameEn": "Finance",
+      "nameZh": "金融界",
+      "groupCount": 123,
+      "individualCount": 0
+    },
+    {
+      "nameEn": "Financial Services",
+      "nameZh": "金融服務界",
+      "groupCount": 634,
+      "individualCount": 0
+    },
+    {
+      "nameEn": "Sports, Performing Arts, Culture and    Publication",
+      "nameZh": "體育、演藝、文化及出版界",
+      "groupCount": 2479,
+      "individualCount": 399
+    },
+    {
+      "nameEn": "Import and Export",
+      "nameZh": "進出口界",
+      "groupCount": 850,
+      "individualCount": 516
+    },
+    {
+      "nameEn": "Textiles and Garment",
+      "nameZh": "紡織及製衣界",
+      "groupCount": 2052,
+      "individualCount": 58
+    },
+    {
+      "nameEn": "Wholesale and Retail",
+      "nameZh": "批發及零售界",
+      "groupCount": 1823,
+      "individualCount": 4767
+    },
+    {
+      "nameEn": "Information Technology",
+      "nameZh": "資訊科技界",
+      "groupCount": 390,
+      "individualCount": 11017
+    },
+    {
+      "nameEn": "Catering",
+      "nameZh": "飲食界",
+      "groupCount": 977,
+      "individualCount": 4036
+    },
+    {
+      "nameEn": "District Council (First)",
+      "nameZh": "區議會  [第一]",
+      "groupCount": 0,
+      "individualCount": 431
+    }
+  ],
+  "byDistcoDistrict": [
+  ]
+}
