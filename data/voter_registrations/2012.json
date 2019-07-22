@@ -8,6 +8,582 @@
     "femaleOnly": 1745281
   },
   "byLegcoGeographic": [
+
+    {
+      "nameEn": "Hong Kong Island",
+      "nameZh": "香港島",
+      "count": 604750,
+      "byGenderAndAgeRange": [
+        {
+          "gender": "male",
+          "count": 294914,
+          "byAgeRange": [
+            {
+              "ageRange": "18_20",
+              "count": 9616
+            },
+            {
+              "ageRange": "21_25",
+              "count": 15394
+            },
+            {
+              "ageRange": "26_30",
+              "count": 17650
+            },
+            {
+              "ageRange": "31_35",
+              "count": 20044
+            },
+            {
+              "ageRange": "36_40",
+              "count": 23072
+            },
+            {
+              "ageRange": "41_45",
+              "count": 23994
+            },
+            {
+              "ageRange": "46_50",
+              "count": 31286
+            },
+            {
+              "ageRange": "51_55",
+              "count": 35591
+            },
+            {
+              "ageRange": "56_60",
+              "count": 31478
+            },
+            {
+              "ageRange": "61_65",
+              "count": 28628
+            },
+            {
+              "ageRange": "66_70",
+              "count": 15130
+            },
+            {
+              "ageRange": "71_",
+              "count": 43031
+            }
+          ]
+        },
+        {
+          "gender": "female",
+          "count": 309836,
+          "byAgeRange": [
+            {
+              "ageRange": "18_20",
+              "count": 9032
+            },
+            {
+              "ageRange": "21_25",
+              "count": 15339
+            },
+            {
+              "ageRange": "26_30",
+              "count": 17817
+            },
+            {
+              "ageRange": "31_35",
+              "count": 20149
+            },
+            {
+              "ageRange": "36_40",
+              "count": 24338
+            },
+            {
+              "ageRange": "41_45",
+              "count": 27285
+            },
+            {
+              "ageRange": "46_50",
+              "count": 35489
+            },
+            {
+              "ageRange": "51_55",
+              "count": 37840
+            },
+            {
+              "ageRange": "56_60",
+              "count": 32632
+            },
+            {
+              "ageRange": "61_65",
+              "count": 28684
+            },
+            {
+              "ageRange": "66_70",
+              "count": 15041
+            },
+            {
+              "ageRange": "71_",
+              "count": 46190
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nameEn": "Kowloon West",
+      "nameZh": "九龍西",
+      "count": 435797,
+      "byGenderAndAgeRange": [
+        {
+          "gender": "male",
+          "count": 216538,
+          "byAgeRange": [
+            {
+              "ageRange": "18_20",
+              "count": 7924
+            },
+            {
+              "ageRange": "21_25",
+              "count": 11652
+            },
+            {
+              "ageRange": "26_30",
+              "count": 12924
+            },
+            {
+              "ageRange": "31_35",
+              "count": 15130
+            },
+            {
+              "ageRange": "36_40",
+              "count": 18367
+            },
+            {
+              "ageRange": "41_45",
+              "count": 18293
+            },
+            {
+              "ageRange": "46_50",
+              "count": 20887
+            },
+            {
+              "ageRange": "51_55",
+              "count": 23406
+            },
+            {
+              "ageRange": "56_60",
+              "count": 20792
+            },
+            {
+              "ageRange": "61_65",
+              "count": 18915
+            },
+            {
+              "ageRange": "66_70",
+              "count": 11925
+            },
+            {
+              "ageRange": "71_",
+              "count": 36323
+            }
+          ]
+        },
+        {
+          "gender": "female",
+          "count": 219259,
+          "byAgeRange": [
+            {
+              "ageRange": "18_20",
+              "count": 7273
+            },
+            {
+              "ageRange": "21_25",
+              "count": 11521
+            },
+            {
+              "ageRange": "26_30",
+              "count": 12623
+            },
+            {
+              "ageRange": "31_35",
+              "count": 14869
+            },
+            {
+              "ageRange": "36_40",
+              "count": 18379
+            },
+            {
+              "ageRange": "41_45",
+              "count": 18973
+            },
+            {
+              "ageRange": "46_50",
+              "count": 22738
+            },
+            {
+              "ageRange": "51_55",
+              "count": 23970
+            },
+            {
+              "ageRange": "56_60",
+              "count": 21467
+            },
+            {
+              "ageRange": "61_65",
+              "count": 18927
+            },
+            {
+              "ageRange": "66_70",
+              "count": 11752
+            },
+            {
+              "ageRange": "71_",
+              "count": 36767
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nameEn": "Kowloon East",
+      "nameZh": "九龍東",
+      "count": 557817,
+      "byGenderAndAgeRange": [
+        {
+          "gender": "male",
+          "count": 275248,
+          "byAgeRange": [
+            {
+              "ageRange": "18_20",
+              "count": 11682
+            },
+            {
+              "ageRange": "21_25",
+              "count": 17525
+            },
+            {
+              "ageRange": "26_30",
+              "count": 17325
+            },
+            {
+              "ageRange": "31_35",
+              "count": 17716
+            },
+            {
+              "ageRange": "36_40",
+              "count": 19864
+            },
+            {
+              "ageRange": "41_45",
+              "count": 21052
+            },
+            {
+              "ageRange": "46_50",
+              "count": 28243
+            },
+            {
+              "ageRange": "51_55",
+              "count": 32157
+            },
+            {
+              "ageRange": "56_60",
+              "count": 25561
+            },
+            {
+              "ageRange": "61_65",
+              "count": 21782
+            },
+            {
+              "ageRange": "66_70",
+              "count": 15518
+            },
+            {
+              "ageRange": "71_",
+              "count": 46823
+            }
+          ]
+        },
+        {
+          "gender": "female",
+          "count": 282569,
+          "byAgeRange": [
+            {
+              "ageRange": "18_20",
+              "count": 10962
+            },
+            {
+              "ageRange": "21_25",
+              "count": 16744
+            },
+            {
+              "ageRange": "26_30",
+              "count": 16066
+            },
+            {
+              "ageRange": "31_35",
+              "count": 16490
+            },
+            {
+              "ageRange": "36_40",
+              "count": 19552
+            },
+            {
+              "ageRange": "41_45",
+              "count": 22751
+            },
+            {
+              "ageRange": "46_50",
+              "count": 30784
+            },
+            {
+              "ageRange": "51_55",
+              "count": 32288
+            },
+            {
+              "ageRange": "56_60",
+              "count": 26842
+            },
+            {
+              "ageRange": "61_65",
+              "count": 23176
+            },
+            {
+              "ageRange": "66_70",
+              "count": 15003
+            },
+            {
+              "ageRange": "71_",
+              "count": 51911
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nameEn": "New Territories West",
+      "nameZh": "新界西",
+      "count": 982938,
+      "byGenderAndAgeRange": [
+        {
+          "gender": "male",
+          "count": 495345,
+          "byAgeRange": [
+            {
+              "ageRange": "18_20",
+              "count": 23457
+            },
+            {
+              "ageRange": "21_25",
+              "count": 36405
+            },
+            {
+              "ageRange": "26_30",
+              "count": 34285
+            },
+            {
+              "ageRange": "31_35",
+              "count": 38242
+            },
+            {
+              "ageRange": "36_40",
+              "count": 40118
+            },
+            {
+              "ageRange": "41_45",
+              "count": 39127
+            },
+            {
+              "ageRange": "46_50",
+              "count": 52728
+            },
+            {
+              "ageRange": "51_55",
+              "count": 62784
+            },
+            {
+              "ageRange": "56_60",
+              "count": 51456
+            },
+            {
+              "ageRange": "61_65",
+              "count": 40549
+            },
+            {
+              "ageRange": "66_70",
+              "count": 25094
+            },
+            {
+              "ageRange": "71_",
+              "count": 51100
+            }
+          ]
+        },
+        {
+          "gender": "female",
+          "count": 487593,
+          "byAgeRange": [
+            {
+              "ageRange": "18_20",
+              "count": 21758
+            },
+            {
+              "ageRange": "21_25",
+              "count": 34226
+            },
+            {
+              "ageRange": "26_30",
+              "count": 33349
+            },
+            {
+              "ageRange": "31_35",
+              "count": 35591
+            },
+            {
+              "ageRange": "36_40",
+              "count": 39802
+            },
+            {
+              "ageRange": "41_45",
+              "count": 44493
+            },
+            {
+              "ageRange": "46_50",
+              "count": 59720
+            },
+            {
+              "ageRange": "51_55",
+              "count": 61792
+            },
+            {
+              "ageRange": "56_60",
+              "count": 50524
+            },
+            {
+              "ageRange": "61_65",
+              "count": 37061
+            },
+            {
+              "ageRange": "66_70",
+              "count": 20380
+            },
+            {
+              "ageRange": "71_",
+              "count": 48897
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nameEn": "New Territories East",
+      "nameZh": "新界東",
+      "count": 870774,
+      "byGenderAndAgeRange": [
+        {
+          "gender": "male",
+          "count": 432047,
+          "byAgeRange": [
+            {
+              "ageRange": "18_20",
+              "count": 21423
+            },
+            {
+              "ageRange": "21_25",
+              "count": 33328
+            },
+            {
+              "ageRange": "26_30",
+              "count": 32948
+            },
+            {
+              "ageRange": "31_35",
+              "count": 33408
+            },
+            {
+              "ageRange": "36_40",
+              "count": 32384
+            },
+            {
+              "ageRange": "41_45",
+              "count": 32151
+            },
+            {
+              "ageRange": "46_50",
+              "count": 45860
+            },
+            {
+              "ageRange": "51_55",
+              "count": 57946
+            },
+            {
+              "ageRange": "56_60",
+              "count": 47345
+            },
+            {
+              "ageRange": "61_65",
+              "count": 36116
+            },
+            {
+              "ageRange": "66_70",
+              "count": 19372
+            },
+            {
+              "ageRange": "71_",
+              "count": 39766
+            }
+          ]
+        },
+        {
+          "gender": "female",
+          "count": 438727,
+          "byAgeRange": [
+            {
+              "ageRange": "18_20",
+              "count": 20120
+            },
+            {
+              "ageRange": "21_25",
+              "count": 31600
+            },
+            {
+              "ageRange": "26_30",
+              "count": 32778
+            },
+            {
+              "ageRange": "31_35",
+              "count": 31479
+            },
+            {
+              "ageRange": "36_40",
+              "count": 33519
+            },
+            {
+              "ageRange": "41_45",
+              "count": 38141
+            },
+            {
+              "ageRange": "46_50",
+              "count": 54572
+            },
+            {
+              "ageRange": "51_55",
+              "count": 60666
+            },
+            {
+              "ageRange": "56_60",
+              "count": 46656
+            },
+            {
+              "ageRange": "61_65",
+              "count": 31710
+            },
+            {
+              "ageRange": "66_70",
+              "count": 15599
+            },
+            {
+              "ageRange": "71_",
+              "count": 41887
+            }
+          ]
+        }
+      ]
+    }
   ],
   "byLegcoFunctional": [
   ],
